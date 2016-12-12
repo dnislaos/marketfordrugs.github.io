@@ -1,0 +1,355 @@
+region,subregion,country,opiates,year,opioids,amphetamines,ecstasy,cannabis,cocaine
+Asia,Near and Middle East /South-West Asia,Afghanistan,1.4,2005,,,,3.59,
+Asia,Near and Middle East /South-West Asia,Afghanistan,2.65,2009,2.92,0,,4.28,0
+Europe,South-Eastern Europe,Albania,,2004,,0.02,,,0.08
+Europe,South-Eastern Europe,Albania,,2006,,,0.97,1.8,0.78
+Europe,South-Eastern Europe,Albania,0.45,2007,,,,,
+Europe,South-Eastern Europe,Albania,,2011,,,1.19,,
+Africa,Northern Africa,Algeria,0.12,2004,,,,,
+Africa,Northern Africa,Algeria,0.06,2010,,0.03,0.02,0.52,0.01
+Americas,South America,Argentina,,2006,,,,6.9,
+Americas,South America,Argentina,0.13,2007,0.19,,,,
+Americas,South America,Argentina,,2008,,0.2,0.2,,1
+Americas,South America,Argentina,0.07,2011,0.1,,0.1,3.2,0.73
+Asia,Central Asia and Transcaucasian countries,Armenia,,2003,,,,3.5,
+Asia,Central Asia and Transcaucasian countries,Armenia,,2005,,0.04,0.1,,0.1
+Asia,Central Asia and Transcaucasian countries,Armenia,0.2,2007,0.28,,,,
+Asia,Central Asia and Transcaucasian countries,Armenia,,2009,0.16,,,,
+Oceania,Oceania,Australia,0.2,2010,3.4,2.1,3,10.3,2.1
+Oceania,Oceania,Australia,0.13,2013,3.3,2.1,2.5,10.2,2.1
+Europe,Western & Central Europe,Austria,,2004,,0.8,0.9,7.5,0.9
+Europe,Western & Central Europe,Austria,,2008,,0.5,0.5,3.5,0.9
+Europe,Western & Central Europe,Austria,0.53,2011,,,,,
+Europe,Western & Central Europe,Austria,0.5,2013,,,,,
+Asia,Central Asia and Transcaucasian countries,Azerbaijan,,2004,,,,3.5,
+Asia,Central Asia and Transcaucasian countries,Azerbaijan,0.2,2008,,,,,
+Asia,Central Asia and Transcaucasian countries,Azerbaijan,1.5,2010,,,,,
+Americas,Caribbean,Bahamas,0.22,2003,,0.29,0.14,4.7,
+Americas,Caribbean,Bahamas,,2008,,0.43,0.11,5.54,
+Asia,South Asia,Bangladesh,0.37,2003,0.4,,,,
+Asia,South Asia,Bangladesh,,2004,,,,3.3,
+Americas,Caribbean,Barbados,0.11,2006,0.23,0.2,0.3,8.3,0.4
+Europe,Eastern Europe,Belarus,,2006,,0.35,,,
+Europe,Eastern Europe,Belarus,0.39,2007,,,0.31,1.07,0.06
+Europe,Eastern Europe,Belarus,0.59,2011,,,,,
+Europe,Western & Central Europe,Belgium,,2007,,,1.12,,
+Europe,Western & Central Europe,Belgium,,2008,0.2,0.9,0.9,5.1,0.9
+Europe,Western & Central Europe,Belgium,,2013,0.2,0.5,,4.6,0.5
+Americas,Central America,Belize,0.3,2005,0.3,1.35,0.3,8.45,0.85
+Americas,Caribbean,Bermuda,0.15,2009,,0.1,,10.9,1.3
+Asia,South Asia,Bhutan,,2009,,,,4.2,
+Americas,South America,Bolivia (Plurinational State of),0.07,2004,,,,,
+Americas,South America,Bolivia (Plurinational State of),,2007,,0.5,0.1,4.5,0.6
+Americas,South America,Bolivia (Plurinational State of),,2013,,,0.01,1.27,0.36
+Europe,South-Eastern Europe,Bosnia and Herzegovina,0.3,2005,,,,,
+Europe,South-Eastern Europe,Bosnia and Herzegovina,,2007,,,,2.8,
+Europe,South-Eastern Europe,Bosnia and Herzegovina,,2008,,1.04,1.42,,0.63
+Europe,South-Eastern Europe,Bosnia and Herzegovina,0.3,2009,,,,,
+Europe,South-Eastern Europe,Bosnia and Herzegovina,,2011,,0.5,0.5,1.6,
+Americas,South America,Brazil,,2005,,,0.2,2.6,0.7
+Asia,East and South-East Asia,Brunei Darussalam,,2006,,0.25,,,
+Europe,South-Eastern Europe,Bulgaria,0.29,2008,0.44,0.95,0.7,2.5,
+Europe,South-Eastern Europe,Bulgaria,0.5,2011,0.51,,,,
+Europe,South-Eastern Europe,Bulgaria,,2012,,0.65,1.2,3.5,0.2
+Africa,Western and Central Africa,Burkina Faso,,2006,,,,2.9,
+Africa,Western and Central Africa,Cabo Verde,0.18,2004,,,0.06,8.1,0.23
+Africa,Western and Central Africa,Cabo Verde,,2012,,,,2.4,0.2
+Asia,East and South-East Asia,Cambodia,,2003,,,0.14,3.5,
+Asia,East and South-East Asia,Cambodia,0.03,2004,,0.6,,,
+Asia,East and South-East Asia,Cambodia,0.04,2007,,,,,
+Americas,Northern America,Canada,,2011,,0.8,,,
+Americas,Northern America,Canada,,2012,,1.2,0.8,12.2,1.3
+Americas,Northern America,Canada,,2013,,0.2,0.5,12.7,1.1
+Africa,Western and Central Africa,Central African Republic,0.05,2004,,,,,
+Africa,Western and Central Africa,Chad,0.22,2004,,,,,
+Americas,South America,Chile,,2012,,0.08,0.05,7.47,1.21
+Americas,South America,Chile,0.02,2014,0.58,0.06,0.08,11.83,1.73
+Asia,East and South-East Asia,China,0.25,2005,,,,,
+Asia,East and South-East Asia,China,0.19,2012,,,,,
+Asia,East and South-East Asia,"China, Hong Kong SAR",,2005,,,,0.02,
+Asia,East and South-East Asia,"China, Hong Kong SAR",0.2,2006,,0.19,,,
+Asia,East and South-East Asia,"China, Hong Kong SAR",,2008,,0.35,0.24,0.4,0.25
+Asia,East and South-East Asia,"China, Macao SAR",,2003,,,,0.67,
+Americas,South America,Colombia,0.02,2008,,0.06,0.28,2.27,0.72
+Americas,South America,Colombia,0.03,2013,,,0.19,3.27,0.7
+Africa,Western and Central Africa,Congo,0.13,2004,,,,,
+Americas,Central America,Costa Rica,0.09,2006,,,0.15,1.02,0.31
+Americas,Central America,Costa Rica,0,2010,,,0.2,2.76,1.06
+Europe,South-Eastern Europe,Croatia,0.36,2006,,,,,
+Europe,South-Eastern Europe,Croatia,,2007,,0.7,0.79,5.18,0.88
+Europe,South-Eastern Europe,Croatia,0.36,2010,,,,,
+Europe,South-Eastern Europe,Croatia,,2011,,,0.4,,
+Europe,South-Eastern Europe,Croatia,,2012,,0.8,,5,0.5
+Europe,Western & Central Europe,Cyprus,,2009,,0.3,0.6,4.4,1.2
+Europe,Western & Central Europe,Cyprus,0.12,2012,,0.3,0.3,2.2,0.3
+Europe,Western & Central Europe,Cyprus,0.15,2013,,,,,
+Europe,Western & Central Europe,Czech Republic,0.13,2012,,0.5,0.6,9.2,0.4
+Europe,Western & Central Europe,Czech Republic,0.15,2013,,0.2,1.1,8.9,0.1
+Africa,Western and Central Africa,Democratic Republic of the Congo,0.13,2004,0.17,,,,
+Europe,Western & Central Europe,Denmark,0.6,2005,,,,,
+Europe,Western & Central Europe,Denmark,0.52,2009,,,,,
+Europe,Western & Central Europe,Denmark,,2010,,0.7,0.3,5.4,0.9
+Europe,Western & Central Europe,Denmark,,2013,,0.6,0.2,6.9,0.9
+Americas,Caribbean,Dominican Republic,,2000,,,0.16,,
+Americas,Caribbean,Dominican Republic,0.11,2001,0.14,,,,
+Americas,Caribbean,Dominican Republic,,2003,,1.1,,,
+Americas,Caribbean,Dominican Republic,0.07,2008,,0.95,0.05,0.31,0.3
+Americas,South America,Ecuador,,2005,,0.21,0.2,,
+Americas,South America,Ecuador,0.07,2007,,0.2,,0.7,0.2
+Americas,South America,Ecuador,0.01,2013,,,0.01,0.67,0.08
+Africa,Northern Africa,Egypt,0.44,2006,,0.48,,6.24,0.02
+Americas,Central America,El Salvador,0.11,2005,0.14,,0.02,0.39,0.41
+Americas,Central America,El Salvador,,2014,,0.38,0.02,2.03,0.47
+Europe,Western & Central Europe,Estonia,,2003,,1.3,1.7,4.6,0.6
+Europe,Western & Central Europe,Estonia,,2008,1.53,1,1.2,6,0.6
+Oceania,Oceania,Fiji,,2004,,,,5.08,
+Europe,Western & Central Europe,Finland,,2006,,0.6,0.5,3.6,0.5
+Europe,Western & Central Europe,Finland,,2010,0.6,0.8,0.4,4.6,0.2
+Europe,Western & Central Europe,Finland,,2012,0.41,,,,
+Europe,Western & Central Europe,France,0.36,2010,,0.2,0.3,8.4,0.88
+Europe,Western & Central Europe,France,0.52,2011,,,,,
+Europe,Western & Central Europe,France,,2014,,0.3,0.9,11.1,1.1
+Asia,Central Asia and Transcaucasian countries,Georgia,,2005,,,,1.1,
+Asia,Central Asia and Transcaucasian countries,Georgia,0.31,2006,0.58,,,,
+Asia,Central Asia and Transcaucasian countries,Georgia,,2007,,,1.72,,
+Asia,Central Asia and Transcaucasian countries,Georgia,,2009,,0.56,0.54,2.7,
+Asia,Central Asia and Transcaucasian countries,Georgia,0.72,2010,1.36,,,,
+Europe,Western & Central Europe,Germany,,2009,0.4,0.7,0.4,4.8,0.8
+Europe,Western & Central Europe,Germany,0.32,2012,0.4,0.7,0.4,4.5,0.8
+Europe,Western & Central Europe,Germany,0.29,2013,,,,,
+Africa,Western and Central Africa,Ghana,0.14,2004,,,,,
+Europe,Western & Central Europe,Greece,,2004,,0.2,0.2,1.7,0.1
+Europe,Western & Central Europe,Greece,0.23,2012,,,,,
+Europe,Western & Central Europe,Greece,0.22,2013,,,,,
+Europe,Western & Central Europe,Greenland,,2003,,,,7.6,
+Americas,Caribbean,Grenada,,2005,,0.7,,,
+Americas,Central America,Guatemala,0.04,2005,,0.91,0.08,4.8,0.21
+Americas,South America,Guyana,,2002,,,0.13,,
+Americas,South America,Guyana,,2008,,,,3.5,
+Americas,South America,Guyana,,2010,,,0.28,4.04,
+Americas,Caribbean,Haiti,,2005,,,0.56,1.41,0.9
+Americas,Caribbean,Haiti,0.07,2006,0.2,,,,
+Americas,Caribbean,Haiti,,2010,,,0.24,1.51,0.88
+Americas,Central America,Honduras,,2004,,,,1.5,
+Americas,Central America,Honduras,0.15,2005,,0.84,0.08,0.83,0.87
+Europe,Western & Central Europe,Hungary,,2007,,0.5,0.5,2.3,0.2
+Europe,Western & Central Europe,Hungary,0.05,2009,,,,,
+Europe,Western & Central Europe,Hungary,0.05,2011,,,,,
+Europe,Western & Central Europe,Iceland,,2003,,0.74,,,
+Europe,Western & Central Europe,Iceland,,2007,,,0.5,,0.88
+Europe,Western & Central Europe,Iceland,,2011,,0.93,0.58,3.4,0.92
+Europe,Western & Central Europe,Iceland,,2012,,,,18.3,
+Asia,East and South-East Asia,Indonesia,0.16,2005,,,,,
+Asia,East and South-East Asia,Indonesia,,2008,,0.16,0.2,0.44,0.02
+Asia,East and South-East Asia,Indonesia,0.11,2010,,0.18,0.19,0.5,0.01
+Asia,Near and Middle East /South-West Asia,Iran (Islamic Republic of),2.27,2010,,0.13,,,
+Europe,Western & Central Europe,Ireland,0.5,2001,,,,,
+Europe,Western & Central Europe,Ireland,0.72,2006,,,,,
+Europe,Western & Central Europe,Ireland,,2007,,0.4,1.2,6.3,1.7
+Europe,Western & Central Europe,Ireland,,2011,,0.4,0.5,6,1.5
+Asia,Near and Middle East /South-West Asia,Israel,,2005,,0.4,0.7,8.5,
+Asia,Near and Middle East /South-West Asia,Israel,0.53,2009,,1.01,1,8.88,1.07
+Europe,Western & Central Europe,Italy,,2012,,0.09,0.06,4,0.6
+Europe,Western & Central Europe,Italy,0.44,2013,,,,,
+Europe,Western & Central Europe,Italy,0.8,2014,,0.2,0.4,,1.1
+Europe,Western & Central Europe,Italy,,2015,,,,9.2,
+Americas,Caribbean,Jamaica,0.1,2001,,,,,
+Americas,Caribbean,Jamaica,0.7,2006,1,1.14,,9.86,1.1
+Americas,Caribbean,Jamaica,,2010,,0.81,0.23,7.21,0.98
+Asia,East and South-East Asia,Japan,,2009,,0.2,0.1,,
+Asia,East and South-East Asia,Japan,,2011,,0.3,,0.3,
+Asia,Central Asia and Transcaucasian countries,Kazakhstan,,2003,,,,4.2,
+Asia,Central Asia and Transcaucasian countries,Kazakhstan,0.89,2006,1,,,,
+Asia,Central Asia and Transcaucasian countries,Kazakhstan,,2012,,,,2.4,
+Africa,Eastern Africa,Kenya,0.73,2004,,,,7.1,
+Africa,Eastern Africa,Kenya,,2007,,,0.25,2.1,0.3
+Africa,Eastern Africa,Kenya,0.22,2012,,,,,
+Asia,Near and Middle East /South-West Asia,Kuwait,0.17,2004,,,,,
+Asia,Near and Middle East /South-West Asia,Kuwait,,2005,,0.27,,3.1,0.04
+Asia,Central Asia and Transcaucasian countries,Kyrgyzstan,0.74,2006,0.8,,,,
+Asia,East and South-East Asia,Lao People's Democratic Republic,0.37,2008,,1.39,,0.88,
+Europe,Western & Central Europe,Latvia,,2007,,0.9,1.5,4.9,0.5
+Europe,Western & Central Europe,Latvia,,2011,,0.3,0.4,4,0.2
+Europe,Western & Central Europe,Latvia,0.49,2012,,,,,
+Europe,Western & Central Europe,Latvia,0.62,2013,,,,,
+Asia,Near and Middle East /South-West Asia,Lebanon,,2001,,,0.5,6.4,
+Asia,Near and Middle East /South-West Asia,Lebanon,0.2,2003,,,,,
+Asia,Near and Middle East /South-West Asia,Lebanon,,2009,,,1,2,
+Africa,Western and Central Africa,Liberia,0.17,2004,,,,,
+Africa,Western and Central Africa,Liberia,,2008,,,,3.18,
+Africa,Northern Africa,Libya,0.14,2004,,,,,
+Europe,Western & Central Europe,Liechtenstein,0.2,2005,,,,,
+Europe,Western & Central Europe,Lithuania,0.1,2006,,,,,
+Europe,Western & Central Europe,Lithuania,0.24,2007,,,,,
+Europe,Western & Central Europe,Lithuania,,2008,,0.7,1,5.6,0.2
+Europe,Western & Central Europe,Lithuania,,2012,,0.2,0.2,2.3,0.2
+Europe,Western & Central Europe,Luxembourg,0.93,2000,,,,,
+Europe,Western & Central Europe,Luxembourg,,2006,,0.98,0.71,6.6,
+Europe,Western & Central Europe,Luxembourg,0.59,2007,,,,,
+Europe,Western & Central Europe,Luxembourg,,2010,,0.73,0.48,5.2,1.04
+Africa,Eastern Africa,Madagascar,,2004,,,,9.1,
+Asia,East and South-East Asia,Malaysia,,2003,,,0.44,1.6,
+Asia,East and South-East Asia,Malaysia,,2005,,0.55,,,
+Asia,East and South-East Asia,Malaysia,0.94,2009,,,,,
+Asia,South Asia,Maldives,1.34,2012,1.46,0.1,,2.55,0.04
+Europe,Western & Central Europe,Malta,,2011,,0.93,0.86,3.1,1.78
+Europe,Western & Central Europe,Malta,0.62,2012,,,,,
+Europe,Western & Central Europe,Malta,,2013,,0,0,0.9,0.5
+Africa,Eastern Africa,Mauritius,,2004,,,,3.9,
+Africa,Eastern Africa,Mauritius,0.91,2007,,,,,
+Africa,Eastern Africa,Mauritius,,2009,1.29,,,1.08,
+Americas,Northern America,Mexico,0.04,2008,0.1,0.02,,1,0.4
+Americas,Northern America,Mexico,0.18,2011,0.38,0.12,0.04,1.2,0.5
+Europe,South-Eastern Europe,Montenegro,,2007,,0.45,,,
+Europe,South-Eastern Europe,Montenegro,,2008,,,0.45,0.23,0.77
+Europe,South-Eastern Europe,Montenegro,,2011,,0.72,0.86,1.9,0.52
+Africa,Northern Africa,Morocco,0.02,2003,,,0.02,,
+Africa,Northern Africa,Morocco,,2004,,,,4.22,0.05
+Africa,Northern Africa,Morocco,0.08,2011,,,,,
+Asia,East and South-East Asia,Myanmar,,2005,,0.22,,0.94,
+Asia,East and South-East Asia,Myanmar,0.8,2010,,,,,
+Asia,South Asia,Nepal,0.24,2006,,,,,
+Europe,Western & Central Europe,Netherlands,0.16,2008,,,,,
+Europe,Western & Central Europe,Netherlands,,2009,,0.4,1.4,7,1.2
+Europe,Western & Central Europe,Netherlands,0.13,2012,,,,,
+Europe,Western & Central Europe,Netherlands,,2014,,1.3,2.5,8,1.6
+Oceania,Oceania,New Zealand,0.42,2006,0.42,,,,0.76
+Oceania,Oceania,New Zealand,0.1,2008,1.1,,2.6,14.6,0.6
+Oceania,Oceania,New Zealand,,2013,,,2,11,
+Oceania,Oceania,New Zealand,,2014,,1.1,,,
+Oceania,Oceania,New Zealand,,2015,,0.9,,,
+Americas,Central America,Nicaragua,,2002,,,,2.2,
+Americas,Central America,Nicaragua,,2003,,0.76,,,
+Americas,Central America,Nicaragua,0.02,2006,,,0.01,1.07,0.69
+Africa,Western and Central Africa,Niger,0.2,2004,,,,,
+Africa,Western and Central Africa,Nigeria,,1999,,1.05,,,
+Africa,Western and Central Africa,Nigeria,0.7,2008,,1.4,,14.3,0.7
+Europe,Western & Central Europe,Norway,0.3,2008,,,,,
+Europe,Western & Central Europe,Norway,0.27,2013,,0.6,0.4,5.1,0.9
+Europe,Western & Central Europe,Norway,,2014,,0.6,0.1,4.2,1
+Asia,Near and Middle East /South-West Asia,Pakistan,,2000,,,,3.9,
+Asia,Near and Middle East /South-West Asia,Pakistan,0.57,2006,0.7,,,,
+Asia,Near and Middle East /South-West Asia,Pakistan,1,2012,2.4,0.12,,3.6,0.01
+Americas,Central America,Panama,,2003,,1.2,0.4,3.55,1.2
+Americas,South America,Paraguay,0.03,2003,,,,,0.25
+Americas,South America,Paraguay,,2005,,0.51,0.09,1.6,
+Americas,South America,Peru,0.18,2005,,,,,
+Americas,South America,Peru,,2006,,0.2,0.04,0.7,0.48
+Americas,South America,Peru,,2010,,,0.04,1,0.7
+Asia,East and South-East Asia,Philippines,,2004,,,0.18,,
+Asia,East and South-East Asia,Philippines,,2007,0.05,,,,
+Asia,East and South-East Asia,Philippines,0.01,2008,,2.13,,0.74,
+Asia,East and South-East Asia,Philippines,0.04,2011,,,,,
+Europe,Western & Central Europe,Poland,0.1,2012,,0.6,0.1,3.8,0.2
+Europe,Western & Central Europe,Poland,0.1,2013,,,,,
+Europe,Western & Central Europe,Poland,,2015,,0.2,0.3,4.6,0.2
+Europe,Western & Central Europe,Portugal,0.38,2007,,0.2,0.4,3.6,0.6
+Europe,Western & Central Europe,Portugal,0.29,2012,,0.05,0.3,2.7,0.2
+Americas,Caribbean,Puerto Rico,,2005,,0.43,0.42,4.88,0.83
+Asia,East and South-East Asia,Republic of Korea,0,2004,,0.12,0.08,0.29,0.03
+Europe,Eastern Europe,Republic of Moldova,0.15,2008,,0.03,0.32,0.9,0.04
+Europe,Eastern Europe,Republic of Moldova,,2010,,,0.1,0.7,
+Europe,Eastern Europe,Republic of Moldova,0.12,2011,,,,,
+Europe,South-Eastern Europe,Romania,,2010,,0.03,0.2,0.3,0.1
+Europe,South-Eastern Europe,Romania,0.11,2011,,,,,
+Europe,South-Eastern Europe,Romania,,2013,,0.1,0.3,2,0.2
+Europe,Eastern Europe,Russian Federation,1.64,2007,,0.39,0.68,3.49,0.23
+Europe,Eastern Europe,Russian Federation,1.4,2010,2.29,,,,
+Africa,Eastern Africa,Rwanda,0.14,2004,,,,,
+Americas,Caribbean,Saint Lucia,,2006,,,,9,
+Americas,Caribbean,Saint Lucia,,2010,,,0.17,8.87,0.6
+Asia,Near and Middle East /South-West Asia,Saudi Arabia,0.06,2006,,0.4,,0.3,
+Africa,Western and Central Africa,Senegal,0.08,2006,,,,,
+Europe,South-Eastern Europe,Serbia,,2006,,0.24,,4.07,
+Europe,South-Eastern Europe,Serbia,0.28,2008,,,0.63,,0.54
+Europe,South-Eastern Europe,Serbia,0.1,2014,5.15,0.1,0.1,1.6,0.1
+Africa,Eastern Africa,Seychelles,2.3,2011,,,,,
+Africa,Western and Central Africa,Sierra Leone,0.17,2004,,,,,
+Africa,Western and Central Africa,Sierra Leone,,2010,,,,5.42,
+Asia,East and South-East Asia,Singapore,0.01,2006,,,,,
+Asia,East and South-East Asia,Singapore,0.32,2010,0.33,,,,
+Europe,Western & Central Europe,Slovakia,0.3,2006,,0.3,1.6,6.9,0.6
+Europe,Western & Central Europe,Slovakia,0.13,2008,,,,,
+Europe,Western & Central Europe,Slovakia,,2010,,0.12,0.46,3.63,0.2
+Europe,Western & Central Europe,Slovenia,,2007,,,,3.1,
+Europe,Western & Central Europe,Slovenia,,2008,,,0.46,,0.6
+Europe,Western & Central Europe,Slovenia,0.44,2011,,0.72,,,
+Europe,Western & Central Europe,Slovenia,0.49,2012,,0.3,0.3,4.4,0.5
+Africa,Eastern Africa,Somalia,0.16,2004,,,,,
+Africa,Southern Africa,South Africa,,2004,,,0.4,,
+Africa,Southern Africa,South Africa,0.41,2008,0.5,1.02,,4.26,0.78
+Africa,Southern Africa,South Africa,,2011,,,0.31,3.65,1.02
+Europe,Western & Central Europe,Spain,,2011,,0.6,0.7,9.6,2.3
+Europe,Western & Central Europe,Spain,0.21,2012,,,,,
+Europe,Western & Central Europe,Spain,0.21,2013,,0.6,0.7,9.2,2.2
+Asia,South Asia,Sri Lanka,0.11,2006,,,,,
+Asia,South Asia,Sri Lanka,0.33,2010,,,,1.43,
+Americas,South America,Suriname,,2002,,0.6,0.1,2,0.5
+Americas,South America,Suriname,,2007,,0.5,0.1,4.25,0.3
+Africa,Southern Africa,Swaziland,0.17,2004,,,,,
+Europe,Western & Central Europe,Sweden,,2007,0.23,,0.25,,
+Europe,Western & Central Europe,Sweden,,2008,,0.8,0.1,,0.5
+Europe,Western & Central Europe,Sweden,,2013,0.53,0.72,,3.16,0.38
+Europe,Western & Central Europe,Sweden,,2014,,,,2.88,
+Europe,Western & Central Europe,Switzerland,,2012,,0.09,0.3,,
+Europe,Western & Central Europe,Switzerland,0.1,2013,,0.27,0.22,5.7,0.5
+Europe,Western & Central Europe,Switzerland,0.1,2014,,,,6.7,0.5
+Asia,Near and Middle East /South-West Asia,Syrian Arab Republic,0.02,2005,,,,,0
+Asia,East and South-East Asia,Taiwan Province of China,0.2,2005,,0.6,0.52,0.3,0.1
+Asia,Central Asia and Transcaucasian countries,Tajikistan,0.54,2006,0.54,,,,
+Asia,East and South-East Asia,Thailand,0.2,2007,,1.4,0.3,1.2,0.05
+Europe,South-Eastern Europe,The former Yugoslav Republic of Macedonia,,1999,,,0.1,,
+Europe,South-Eastern Europe,The former Yugoslav Republic of Macedonia,0.4,2005,0.5,,,,
+Europe,South-Eastern Europe,The former Yugoslav Republic of Macedonia,,2008,,,0.75,0.63,
+Africa,Western and Central Africa,Togo,,2006,,,,2.73,
+Africa,Western and Central Africa,Togo,,2009,,,,1,
+Americas,Caribbean,Trinidad and Tobago,,2002,,0.78,,,
+Americas,Caribbean,Trinidad and Tobago,,2006,,0.7,0.13,4.66,
+Americas,Caribbean,Trinidad and Tobago,,2010,,,0.14,4.03,0.48
+Africa,Northern Africa,Tunisia,0.12,2011,,,,,
+Africa,Northern Africa,Tunisia,,2013,,,,2.6,
+Europe,South-Eastern Europe,Turkey,,2003,,0.2,0.26,1.9,0.04
+Europe,South-Eastern Europe,Turkey,0.03,2010,,,,,
+Europe,South-Eastern Europe,Turkey,0.03,2011,,,,0.3,
+Asia,Central Asia and Transcaucasian countries,Turkmenistan,0.32,2007,0.32,,,,
+Africa,Eastern Africa,Uganda,0.05,2004,,,,,
+Europe,Eastern Europe,Ukraine,,2007,,0.39,0.68,2.5,0.23
+Europe,Eastern Europe,Ukraine,0.91,2009,,,,,
+Europe,Eastern Europe,Ukraine,,2011,,0.72,0.93,2.9,0.52
+Europe,Eastern Europe,Ukraine,1.05,2012,,,,,
+Asia,Near and Middle East /South-West Asia,United Arab Emirates,0.02,2004,,,,,
+Asia,Near and Middle East /South-West Asia,United Arab Emirates,,2006,,,,5.35,
+Europe,Western & Central Europe,United Kingdom (England and Wales),0.76,2010,,,,,
+Europe,Western & Central Europe,United Kingdom (England and Wales),0.75,2012,,,,,
+Europe,Western & Central Europe,United Kingdom (England and Wales),,2013,,0.7,1.3,6.4,2
+Europe,Western & Central Europe,United Kingdom (England and Wales),,2014,,0.8,1.6,6.6,2.4
+Europe,Western & Central Europe,United Kingdom (Northern Ireland),0.12,2004,,,,,
+Europe,Western & Central Europe,United Kingdom (Northern Ireland),0.12,2006,,1,1.8,7.2,1.9
+Europe,Western & Central Europe,United Kingdom (Northern Ireland),,2011,,1.1,1.1,5.1,1.5
+Europe,Western & Central Europe,United Kingdom (Scotland),1.52,2010,,,,,
+Europe,Western & Central Europe,United Kingdom (Scotland),,2011,,1.2,1.7,7,2.4
+Europe,Western & Central Europe,United Kingdom (Scotland),1.51,2013,,0.9,1.7,6.5,2.2
+Americas,Northern America,United States of America,,2012,6.1,1.9,,,
+Americas,Northern America,United States of America,0.55,2013,,1.9,1.2,15.4,2.15
+Americas,Northern America,United States of America,0.62,2014,5.41,1.96,1.1,16.2,2.1
+Americas,South America,Uruguay,0.1,2006,,,,,
+Americas,South America,Uruguay,0.06,2011,0.18,0.01,0.2,8.3,2.1
+Americas,South America,Uruguay,,2014,,0.04,0.4,9.3,1.8
+Asia,Central Asia and Transcaucasian countries,Uzbekistan,,2003,,,,4.2,
+Asia,Central Asia and Transcaucasian countries,Uzbekistan,0.78,2006,0.8,,,,
+Americas,South America,Venezuela (Bolivarian Republic of),,2002,,0.6,,,
+Asia,South America,Venezuela (Bolivarian Republic of),0.1,2003,,,,,
+Americas,South America,Venezuela (Bolivarian Republic of),,2005,,,0.04,0.85,0.63
+Americas,South America,Venezuela (Bolivarian Republic of),0.03,2011,,0.47,0.13,1.56,0.64
+Asia,East and South-East Asia,Viet Nam,,2003,,0.22,0.22,,
+Asia,East and South-East Asia,Viet Nam,0.27,2005,,,,,
+Asia,East and South-East Asia,Viet Nam,0.53,2011,,,,,
+Africa,Southern Africa,Zambia,0.37,2003,,0.1,0.3,17.7,
+Africa,Southern Africa,Zambia,,2004,,,,9.5,
+Africa,Southern Africa,Zimbabwe,0.04,2004,,,,,
+Europe,South-Eastern Europe,Bulgaria,,2007,,,,,0.6
+Asia,Near and Middle East /South-West Asia,Iran (Islamic Republic of),,2008,,,,,0.01
+Europe,Western & Central Europe,Luxembourg,,2003,,,,,0.9
+Asia,East and South-East Asia,Philippines,,2005,,,,,0.03
+Americas,Caribbean,Saint Lucia,,2002,,,,,1
+Europe,South-Eastern Europe,The former Yugoslav Republic of Macedonia,,2007,,,,,0.08

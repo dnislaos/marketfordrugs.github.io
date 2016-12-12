@@ -1,0 +1,59 @@
+continent,region,country,iso,Number of deaths related with drugs,"Number of drug-related deaths, mortality rates per million persons",Population density (people per sq. km of land area),GDP per capita (constant 2005 US$),"Tuberculosis case detection rate (%, all forms)","Life expectancy at birth, total (years)","Population, total",Urban population (% of total),Rule of Law (WBGI),Government Effectiveness (WBGI),Political Stability (WBGI),"People who consumes cannabis, %"
+Africa,Eastern Africa,Kenya,KEN,1571,63.5,74.8,624,81,60.3,42500000,24.4,-0.9,-0.6,-1.3,0.3
+Africa,Eastern Africa,Seychelles,SYC,5,80.2,192,14749.9,100,74.2,88303,52.9,0,0.4,0.8,2.7
+Americas,Central America,Costa Rica,CRI,21,6.8,91.2,5908.6,86,79.1,4654148,73.9,0.5,0.5,0.6,3.3
+Americas,Central America,El Salvador,SLV,568,160.1,293.1,3145.6,92,72.2,6072233,65.3,-0.8,-0.1,0.2,0.7
+Americas,Central America,Nicaragua,NIC,11,2.8,48.8,1359.5,89,74.2,5877034,57.8,-0.7,-0.9,-0.4,0.9
+Americas,Central America,Panama,PAN,1,0.4,50.4,7373.2,80,77.2,3743761,65.7,-0.2,0.3,-0.2,0.9
+Americas,North America,Canada,CAN,2394,104.5,3.8,37442.3,93,81.2,34800000,81.3,1.8,1.8,1.1,2.6
+Americas,North America,Mexico,MEX,263,3.2,62.8,8444.5,81,76.4,122000000,78.4,-0.6,0.3,-0.7,1.6
+Americas,South America,Brazil,BRA,200,1.4,24.2,5791.3,82,73.8,202000000,84.9,-0.1,-0.1,0.1,2.6
+Americas,South America,Ecuador,ECU,3,0.3,62.1,3623.9,60,75.4,15400000,63.1,-1.2,-0.5,-0.6,0.7
+Americas,South America,Peru,PER,42,2.2,23.6,3912,78,74.1,30200000,77.6,-0.6,-0.2,-0.9,0.9
+Americas,South America,Uruguay,URY,216,100.2,19.4,7419.2,87,76.7,3396753,94.8,0.5,0.4,0.7,11.0
+Americas,South America,Venezuela (Bolivarian Republic of),VEN,197,55.3,33.9,6433.6,88,73.9,29900000,88.9,-1.7,-1.1,-1,11.0
+Asia,Central Asia  and Transcaucasian countries,Kazakhstan,KAZ,323,27.7,6.2,5192.6,85,69.6,16800000,53.5,-0.7,-0.4,-0.4,0.3
+Asia,Central Asia  and Transcaucasian countries,Tajikistan,TJK,47,9.4,131.5,3664.7,52,74.1,67200000,46.7,-0.2,0.2,-1.2,6.7
+Asia,Central Asia  and Transcaucasian countries,Uzbekistan,UZB,547,27.8,70,849.1,58,68.1,29800000,36.2,-1.3,-0.9,-0.5,11.0
+Asia,East and South-East Asia,Malaysia,MYS,432,22.6,88.3,6837.3,82,74.4,29000000,72.5,0.5,1,0,1.6
+Asia,East and South-East Asia,Viet Nam,VNM,2184,36,286.3,986,77,75.6,88800000,31.7,-0.5,-0.3,0.3,11.0
+Asia,Near and Middle East,Kuwait,KWT,44,20.6,191.9,29264.4,81,74.4,3419581,98.3,0.4,-0.1,0.2,0.3
+Asia,Near and Middle East,Qatar,QAT,10,6.2,173.6,61608.1,110,78.2,2015624,99,1,1,1.2,0.6
+Asia,Near and Middle East,Israel,ISR,53,11,365.6,24128,120,81.7,7910500,92,0.9,1.3,-1.1,0.5
+Asia,Near and Middle East,Jordan,JOR,52,17.7,71.2,2839.2,82,73.8,6318000,83,0.4,0,-0.5,0.3
+Asia,Near and Middle East,Lebanon,LBN,9,2.4,434.1,7219.1,82,79.9,4440728,87.4,-0.8,-0.3,-1.7,0.9
+Asia,Near and Middle East,Oman,OMN,5,3.5,11.5,12297.7,94,76.6,3545192,76.2,0.6,0.3,0.5,0.9
+Asia,South-West Asia,Iran (Islamic Republic of),IRN,2986,54,46.8,3550.4,70,74.8,76200000,71.8,-0.9,-0.5,-1.3,0.5
+Europe,East Europe,Russian Federation,RUS,8189,81.1,8.7,6845.8,79,70.4,143000000,73.8,-0.8,-0.4,-0.8,3.6
+Europe,East Europe,Ukraine,UKR,3311,104.9,78.7,2094.1,90,70.9,45600000,69.1,-0.8,-0.6,-0.1,6.7
+Europe,Southeast Europe,Croatia,HRV,165,57.7,76.3,10626.1,80,76.9,4267558,58.1,0.2,0.7,0.6,3.3
+Europe,Southeast Europe,Macedonia (TFYR),MKD,23,15.9,82.1,3746.6,88,75,2069270,57,-0.2,-0.1,-0.4,0.9
+Europe,Southeast Europe,Montenegro,MNE,6,14.3,46.1,4535,87,74.7,620601,63.5,0,0.1,0.6,1.6
+Europe,Southeast Europe,Romania,ROM,31,23.8,87.2,5836.7,86,74.5,20100000,54.1,0,-0.3,0.1,3.6
+Europe,Southeast Europe,Serbia,SRB,138,22.5,82.3,4174.7,87,74.8,7199077,55.3,-0.4,-0.1,-0.2,2.7
+Europe,Southeast Europe,Turkey,TUR,232,4.5,96.3,8471.6,84,74.9,74100000,71.8,0,0.4,-1.2,6.7
+Europe,West & Central Europe,Cyprus,CYP,10,12.3,122.2,23351.9,100,79.8,1129303,67.3,1.1,1.4,0.6,3.3
+Europe,West & Central Europe,Czech Republic,CZE,39,5.4,136.1,14742.7,94,78.1,10500000,73.1,1,0.9,1,3.3
+Europe,West & Central Europe,Denmark,DNK,213,58.5,131.8,47648.8,90,80.1,5591572,87.1,1.9,2,0.9,3.3
+Europe,West & Central Europe,Estonia,EST,111,127.2,31.2,11765.6,83,76.3,1322696,67.8,1.1,1,0.6,0.7
+Europe,West & Central Europe,Finland,FIN,274,77.8,17.8,39763.4,81,80.6,5413971,83.8,1.9,2.2,1.4,0.7
+Europe,West & Central Europe,France,FRA,162,4,119.9,35676,82,82,65600000,78.8,1.4,1.3,0.6,0.7
+Europe,West & Central Europe,Germany,DEU,1002,18.9,230.8,39372.5,87,80.9,80400000,74.7,1.6,1.6,0.8,0.7
+Europe,West & Central Europe,Greece,GRC,21,3,86.1,18508.3,91,80.6,11100000,77,0.4,0.3,-0.2,0.7
+Europe,West & Central Europe,Hungary,HUN,23,3.4,109.6,11229.6,91,75.1,9920362,69.8,0.6,0.6,0.7,4.0
+Europe,West & Central Europe,Iceland,ISL,45,221.2,3.2,57345,82,82.9,320716,93.8,1.7,1.5,1.2,4.0
+Europe,West & Central Europe,Ireland,IRL,181,58,66.6,49243.2,82,80.9,4586897,62.4,1.7,1.5,0.9,0.5
+Europe,West & Central Europe,Italy,ITA,313,8.2,202.4,29963.9,79,82.2,59500000,68.6,0.4,0.4,0.5,0.5
+Europe,West & Central Europe,Latvia,LVA,13,9.7,32.7,8973,95,73.8,2034319,67.6,0.8,0.8,0.4,0.9
+Europe,West & Central Europe,Lithuania,LTU,87,44.6,47.7,10208.1,80,73.9,2987773,66.6,0.8,0.8,0.8,0.9
+Europe,West & Central Europe,Luxembourg,LUX,8,21.8,205,80011.1,120,81.4,530946,89.3,1.8,1.7,1.3,0.9
+Europe,West & Central Europe,Malta,MLT,3,10.8,1310.8,16439.7,86,80.8,419455,95,1.3,1.2,1,1.6
+Europe,West & Central Europe,Netherlands,NLD,123,11.1,496.9,43396.7,89,81.1,16800000,88.6,1.8,1.8,1.2,0.9
+Europe,West & Central Europe,Norway,NOR,234,69.7,13.7,66825,88,81.5,5018573,79.7,2,1.9,1.3,0.9
+Europe,West & Central Europe,Poland,POL,227,8.3,124.3,10739.2,87,76.8,38100000,60.7,0.7,0.7,1,0.7
+Europe,West & Central Europe,Portugal,PRT,16,2.3,114.8,18228.7,91,80.4,10500000,61.8,1,1,0.8,0.7
+Europe,West & Central Europe,Slovakia,SVK,112,28.6,112.5,15222.7,76,76.1,5407579,54.2,0.5,0.8,1.1,3.6
+Europe,West & Central Europe,Slovenia,SVN,28,19.9,102.1,18848.2,77,80.1,2057159,49.9,1,1,0.9,2.0
+Europe,West & Central Europe,Sweden,SWE,589,95.7,23.4,45260,86,81.7,9519374,85.4,1.9,1.9,1.2,2.9
+Europe,West & Central Europe,United Kingdom,GBR,3800,91.2,263.3,39954.2,95,80.9,63700000,81.8,1.7,1.5,0.4,6.7
+Oceania,Oceania,New Zealand,NZL,78,26.7,16.7,28715.7,88,81.2,4408100,86.2,1.9,1.8,1.4,0.9

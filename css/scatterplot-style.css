@@ -1,0 +1,81 @@
+.content-2 {
+    background-color: #222;
+    width:100%;
+
+}
+
+
+.scatter-section-heading {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+.scatter-axis text {
+    font: 10px sans-serif;
+}
+
+.scatter-axis path,
+.scatter-axis line {
+    fill: none;
+    stroke: white;
+    shape-rendering: crispEdges;
+
+}
+.scatter-axis {
+    fill: white;
+}
+
+.circle_scatterplot {
+    stroke: white;
+    stroke-width: 0.5;
+    fill-opacity: 0.5;
+}
+
+#scatterxAxisLabel,
+#scatteryAxisLabel {
+    fill: white;
+}
+
+
+#scatter-column-text {
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.scatter-labelColor {
+    color: white;
+    padding:5%
+}
+
+
+.scatter-d3-tip {
+    line-height: 1;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.scatter-d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips differently */
+.scatter-d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}

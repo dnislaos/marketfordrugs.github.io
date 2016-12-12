@@ -1,0 +1,49 @@
+
+.treemap-title {
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+
+
+.treemap-grandparent text {
+    font-weight: bold;
+}
+
+rect {
+    fill: none;
+    stroke: #fff;
+}
+
+.treemap-parent,
+.treemap-grandparent  {
+    stroke-width: 2px;
+}
+
+.treemap-parent {
+    pointer-events: none;
+}
+
+.treemap-grandparent  {
+    fill: orange;
+}
+
+.treemap-grandparent:hover  {
+    fill: #ee9700;
+}
+
+.treemap-children .treemap-parent,
+.treemap-grandparent  {
+    cursor: pointer;
+}
+
+.treemap-children .treemap-parent {
+    fill: #bbb;
+    fill-opacity: .5;
+}
+
+.treemap-children:hover .treemap-child {
+    fill: #bbb;
+}

@@ -1,0 +1,311 @@
+region,subregion,country,variable,description,source,year,stat
+Africa,North Africa,Algeria,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2010,0.52
+Africa,West and Central Africa,Burkina Faso,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2006,2.90
+Africa,West and Central Africa,Cabo Verde,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC/Govt.,2012,2.40
+Africa,North Africa,Egypt,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Govt;  Academic Research,2006,6.24
+Africa,Eastern Africa,Kenya,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Govt,2007,2.10
+Africa,West and Central Africa,Liberia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2008,3.18
+Africa,Eastern Africa,Madagascar,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2004,9.10
+Africa,Eastern Africa,Mauritius,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2009,1.08
+Africa,North Africa,Morocco,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2004,4.22
+Africa,West and Central Africa,Nigeria,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2008,14.30
+Africa,West and Central Africa,Sierra Leone,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,5.42
+Africa,Southern Africa,South Africa,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2011,3.65
+Africa,West and Central Africa,Togo,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2009,1.00
+Africa,North Africa,Tunisia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,2.60
+Africa,Southern Africa,Zambia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Govt;  Academic Research,2004,9.50
+Americas,South America,Argentina,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2011,3.20
+Americas,Caribbean,Bahamas,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2008,5.54
+Americas,Caribbean,Barbados,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),CICAD,2006,8.30
+Americas,Central America,Belize,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),CICAD,2005,8.45
+Americas,Caribbean,Bermuda,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2009,10.90
+Americas,South America,Bolivia (Plurinational State of),Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,1.27
+Americas,South America,Brazil,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2005,2.60
+Americas,North America,Canada,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,12.70
+Americas,South America,Chile,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,11.83
+Americas,South America,Colombia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,3.27
+Americas,Central America,Costa Rica,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2010,2.76
+Americas,Caribbean,Dominican Republic,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2008,0.31
+Americas,South America,Ecuador,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Encuesta Nacional Sobre el uso de drogas en poblacion General,2013,0.67
+Americas,Central America,El Salvador,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,2.03
+Americas,Central America,Guatemala,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2005,4.80
+Americas,South America,Guyana,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,4.04
+Americas,Caribbean,Haiti,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,1.51
+Americas,Central America,Honduras,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2005,0.83
+Americas,Caribbean,Jamaica,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,7.21
+Americas,North America,Mexico,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2011,1.20
+Americas,Central America,Nicaragua,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2006,1.07
+Americas,Central America,Panama,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2003,3.55
+Americas,South America,Paraguay,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2005,1.60
+Americas,South America,Peru,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2010,1.0
+Americas,Caribbean,Puerto Rico,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2005,4.88
+Americas,Caribbean,Saint Lucia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,8.87
+Americas,South America,Suriname,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2007,4.25
+Americas,Caribbean,Trinidad and Tobago,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,4.03
+Americas,North America,United States of America,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,16.20
+Americas,South America,Uruguay,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,9.30
+Americas,South America,Venezuela (Bolivarian Republic of),Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2011,1.56
+Asia,Near and Middle East / South-West Asia,Afghanistan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC/ Govt. Source,2009,4.28
+Asia,Central Asia  and Transcaucasian countries,Armenia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2003,3.50
+Asia,Central Asia and Transcaucasia,Azerbaijan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2004,3.50
+Asia,South Asia,Bangladesh,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Academic research,2004,3.30
+Asia,South Asia,Bhutan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2009,4.20
+Asia,East and South-East Asia,Cambodia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2003,3.50
+Asia,East and South-East Asia,"China, Hong Kong SAR",Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2008,0.40
+Asia,East and South-East Asia,"China, Macao SAR",Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2003,0.67
+Asia,Central Asia  and Transcaucasian countries,Georgia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source/ NGO/Academic research,2009,2.70
+Asia,East and South-East Asia,Indonesia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2010,0.50
+Asia,Near and Middle East /South-West Asia,Israel,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2009,8.88
+Asia,East and South-East Asia,Japan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2011,0.30
+Asia,Central Asia  and Transcaucasian countries,Kazakhstan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,2.40
+Asia,Near and Middle East,Kuwait,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2005,3.10
+Asia,East and South-East Asia,Lao People's Democratic Republic,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC report,2008,0.88
+Asia,Near and Middle East /South-West Asia,Lebanon,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source/MEDSPAD,2009,2.00
+Asia,East and South-East Asia,Malaysia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2003,1.60
+Asia,South Asia,Maldives,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2012,2.55
+Asia,East and South-East Asia,Myanmar,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2005,0.94
+Asia,Near and Middle East / South-West Asia,Pakistan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government/UNODC,2012,3.60
+Asia,East and South-East Asia,Philippines,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2008,0.74
+Asia,East and South-East Asia,Republic of Korea,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2004,0.29
+Asia,Near and Middle East / South-West Asia,Saudi Arabia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source/ NGO/Academic research,2006,0.30
+Asia,South Asia,Sri Lanka,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2010,1.43
+Asia,East and South-East Asia,Taiwan Province of China,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),AMCEWG,2005,0.30
+Asia,East and South-East Asia,Thailand,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2007,1.20
+Asia,Near and Middle East,United Arab Emirates,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2006,5.35
+Asia,Central Asia and Transcaucasian countries,Uzbekistan,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2003,4.20
+Europe,Southeast Europe,Albania,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2006,1.80
+Europe,West & Central Europe,Austria,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2008,3.50
+Europe,East Europe,Belarus,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ESPAD,2007,1.07
+Europe,West & Central Europe,Belgium,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,4.60
+Europe,Southeast Europe,Bosnia and Herzegovina,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ESPAD,2011,1.60
+Europe,Southeast Europe,Bulgaria,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,3.50
+Europe,Southeast Europe,Croatia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),EMCDDA,2012,5.00
+Europe,West & Central Europe,Cyprus,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,2.20
+Europe,West & Central Europe,Czech Republic,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,8.90
+Europe,West & Central Europe,Denmark,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,6.90
+Europe,West & Central Europe,Estonia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2008,6.00
+Europe,West & Central Europe,Finland,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2010,4.60
+Europe,West & Central Europe,France,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,11.10
+Europe,West & Central Europe,Germany,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,4.50
+Europe,West & Central Europe,Greece,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2004,1.70
+Europe,West & Central Europe,Greenland,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ESPAD,2003,7.60
+Europe,West & Central Europe,Hungary,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2007,2.30
+Europe,West & Central Europe,Iceland,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,18.30
+Europe,West & Central Europe,Ireland,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2011,6.00
+Europe,West & Central Europe,Italy,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2014,9.20
+Europe,West & Central Europe,Latvia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2011,4.00
+Europe,West & Central Europe,Lithuania,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,2.30
+Europe,West & Central Europe,Luxembourg,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2010,5.20
+Europe,West & Central Europe,Malta,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,0.90
+Europe,Southeast Europe,Montenegro,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ESPAD,2011,1.90
+Europe,West & Central Europe,Netherlands,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,8.00
+Europe,West & Central Europe,Norway,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,4.20
+Europe,West & Central Europe,Poland,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2015,4.60
+Europe,West & Central Europe,Portugal,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,2.70
+Europe,Eastern/ South-East Europe,Republic of Moldova,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2010,0.70
+Europe,Southeast Europe,Romania,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,2.00
+Europe,East Europe,Russian Federation,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ESPAD,2007,3.49
+Europe,Southeast Europe,Serbia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2014,1.60
+Europe,West & Central Europe,Slovakia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),EMCDDA,2010,3.63
+Europe,West & Central Europe,Slovenia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2012,4.40
+Europe,West & Central Europe,Spain,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,9.20
+Europe,West & Central Europe,Sweden,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,2.88
+Europe,West & Central Europe,Switzerland,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,6.70
+Europe,Southeast Europe,The former Yugoslav Republic of Macedonia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ESPAD,2008,0.63
+Europe,Southeast Europe,Turkey,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),EMCDDA,2011,0.30
+Europe,East Europe,Ukraine,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),UNODC Estimate,2011,2.90
+Europe,West & Central Europe,United Kingdom (England and Wales),Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2014,6.60
+Europe,West & Central Europe,United Kingdom (Northern Ireland),Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2011,5.10
+Europe,West & Central Europe,United Kingdom (Scotland),Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2013,6.50
+Oceania,Oceania,Australia,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),ARQ,2013,10.20
+Oceania,Oceania,Fiji,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2004,5.08
+Oceania,Oceania,New Zealand,Cannabis Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated),Government source,2013,11.00
+Africa,North Africa,Algeria,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2010,0.01
+Africa,West and Central Africa,Cabo Verde,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC/Govt.,2012,0.20
+Africa,North Africa,Egypt,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Govt;  Academic Research,2006,0.02
+Africa,Eastern Africa,Kenya,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2007,0.30
+Africa,North Africa,Morocco,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2004,0.05
+Africa,West and Central Africa,Nigeria,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2008,0.70
+Africa,Southern Africa,South Africa,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2011,1.02
+Americas,South America,Argentina,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2011,0.73
+Americas,Caribbean,Barbados,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),CICAD,2006,0.40
+Americas,Central America,Belize,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),CICAD,2005,0.85
+Americas,Caribbean,Bermuda,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2009,1.30
+Americas,South America,Bolivia (Plurinational State of),Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.36
+Americas,South America,Brazil,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2005,0.70
+Americas,North America,Canada,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,1.10
+Americas,South America,Chile,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,1.73
+Americas,South America,Colombia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.70
+Americas,Central America,Costa Rica,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2010,1.06
+Americas,Caribbean,Dominican Republic,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2008,0.30
+Americas,South America,Ecuador,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Encuesta Nacional Sobre el uso de drogas en poblacion General,2013,0.08
+Americas,Central America,El Salvador,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,0.47
+Americas,Central America,Guatemala,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2005,0.21
+Americas,Caribbean,Haiti,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2010,0.88
+Americas,Central America,Honduras,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2005,0.87
+Americas,Caribbean,Jamaica,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2010,0.98
+Americas,North America,Mexico,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2011,0.50
+Americas,Central America,Nicaragua,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2006,0.69
+Americas,Central America,Panama,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2003,1.20
+Americas,South America,Paraguay,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2003,0.25
+Americas,South America,Peru,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2010,0.70
+Americas,Caribbean,Puerto Rico,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2005,0.83
+Americas,Caribbean,Saint Lucia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2010,0.60
+Americas,South America,Suriname,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2007,0.30
+Americas,Caribbean,Trinidad and Tobago,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2010,0.48
+Americas,North America,United States of America,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,2.10
+Americas,South America,Uruguay,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,1.80
+Americas,South America,Venezuela (Bolivarian Republic of),Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2011,0.64
+Asia,Near and Middle East / South-West Asia,Afghanistan,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC/ Govt. Source,2009,0.00
+Asia,Central Asia  and Transcaucasian countries,Armenia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2005,0.10
+Asia,East and South-East Asia,"China, Hong Kong SAR",Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2008,0.25
+Asia,East and South-East Asia,Indonesia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2010,0.01
+Asia,South-West Asia,Iran (Islamic Republic of),Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2008,0.01
+Asia,Near and Middle East /South-West Asia,Israel,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2009,1.07
+Asia,Near and Middle East,Kuwait,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2005,0.04
+Asia,South Asia,Maldives,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2012,0.04
+Asia,Near and Middle East / South-West Asia,Pakistan,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government/UNODC,2012,0.01
+Asia,East and South-East Asia,Philippines,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2005,0.03
+Asia,East and South-East Asia,Republic of Korea,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2004,0.03
+Asia,Near and Middle East,Syrian Arab Republic,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2005,0.00
+Asia,East and South-East Asia,Taiwan Province of China,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),AMCEWG,2005,0.10
+Asia,East and South-East Asia,Thailand,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2007,0.05
+Europe,Southeast Europe,Albania,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government sources,2006,0.78
+Europe,West & Central Europe,Austria,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),,2008,0.90
+Europe,East Europe,Belarus,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ESPAD,2007,0.06
+Europe,West & Central Europe,Belgium,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.50
+Europe,Southeast Europe,Bosnia and Herzegovina,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ESPAD,2008,0.63
+Europe,Southeast Europe,Bulgaria,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2012,0.20
+Europe,Southeast Europe,Croatia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),EMCDDA,2012,0.50
+Europe,West & Central Europe,Cyprus,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2012,0.30
+Europe,West & Central Europe,Czech Republic,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.10
+Europe,West & Central Europe,Denmark,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.90
+Europe,West & Central Europe,Estonia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),,2008,0.60
+Europe,West & Central Europe,Finland,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2010,0.20
+Europe,West & Central Europe,France,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,1.10
+Europe,West & Central Europe,Germany,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),,2012,0.80
+Europe,West & Central Europe,Greece,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2004,0.10
+Europe,West & Central Europe,Hungary,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2007,0.20
+Europe,West & Central Europe,Iceland,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ESPAD,2011,0.92
+Europe,West & Central Europe,Ireland,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2011,1.50
+Europe,West & Central Europe,Italy,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2014,1.10
+Europe,West & Central Europe,Latvia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2011,0.20
+Europe,West & Central Europe,Lithuania,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2012,0.20
+Europe,West & Central Europe,Luxembourg,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2010,1.04
+Europe,West & Central Europe,Malta,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.50
+Europe,Southeast Europe,Montenegro,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ESPAD,2011,0.52
+Europe,West & Central Europe,Netherlands,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,1.60
+Europe,West & Central Europe,Norway,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,1.00
+Europe,West & Central Europe,Poland,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),,2015,0.20
+Europe,West & Central Europe,Portugal,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2012,0.20
+Europe,Eastern/ South-East Europe,Republic of Moldova,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government sources,2008,0.04
+Europe,Southeast Europe,Romania,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.20
+Europe,East Europe,Russian Federation,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ESPAD,2007,0.23
+Europe,Southeast Europe,Serbia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2014,0.10
+Europe,West & Central Europe,Slovakia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),EMCDDA,2010,0.20
+Europe,West & Central Europe,Slovenia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2012,0.50
+Europe,West & Central Europe,Spain,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,2.20
+Europe,West & Central Europe,Sweden,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,0.38
+Europe,West & Central Europe,Switzerland,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,0.50
+Europe,Southeast Europe,The former Yugoslav Republic of Macedonia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),INCSR,2007,0.08
+Europe,Southeast Europe,Turkey,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),UNODC Estimate,2003,0.04
+Europe,East Europe,Ukraine,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ESPAD,2011,0.52
+Europe,West & Central Europe,United Kingdom (England and Wales),Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2014,2.40
+Europe,West & Central Europe,United Kingdom (Northern Ireland),Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2011,1.50
+Europe,West & Central Europe,United Kingdom (Scotland),Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2013,2.20
+Oceania,Oceania,Australia,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),ARQ,2013,2.10
+Oceania,Oceania,New Zealand,Cocaine Prevalence,Annual Prevalence of Use as a percentage of the population aged 15-64 (unless otherwise indicated) (%),Government source,2008,0.60
+Africa,Eastern Africa,Kenya,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,"1,571"
+Africa,Eastern Africa,Seychelles,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2007,5
+Africa,Southern Africa,South Africa,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,
+Americas,South America,Argentina,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,331
+Americas,Caribbean,Bahamas,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2007,2
+Americas,South America,Brazil,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,200
+Americas,North America,Canada,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2007,"2,394"
+Americas,Central America,Costa Rica,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2010,21
+Americas,Caribbean,Dominican Republic,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2008,135
+Americas,South America,Ecuador,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,3
+Americas,Central America,El Salvador,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",CICAD,2005,568
+Americas,North America,Mexico,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,263
+Americas,Central America,Nicaragua,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,11
+Americas,Central America,Panama,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,1
+Americas,South America,Peru,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,42
+Americas,Caribbean,Trinidad and Tobago,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,3
+Americas,North America,United States of America,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,"49,714"
+Americas,South America,Uruguay,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,216
+Americas,South America,Venezuela (Bolivarian Republic of),Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2010,197
+Asia,Near and Middle East / South-West Asia,Afghanistan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,16
+Asia,Central Asia and Transcaucasia,Azerbaijan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,31
+Asia,Near and Middle East,Bahrain,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,25
+Asia,South Asia,Bhutan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2010,4
+Asia,East and South-East Asia,"China, Hong Kong SAR",Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,94
+Asia,East and South-East Asia,"China, Macao SAR",Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,2
+Asia,Central Asia  and Transcaucasian countries,Georgia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2008,
+Asia,South Asia,India,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2008,
+Asia,East and South-East Asia,Indonesia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2010,447
+Asia,South-West Asia,Iran (Islamic Republic of),Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,"2,986"
+Asia,Near and Middle East /South-West Asia,Israel,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,53
+Asia,East and South-East Asia,Japan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,
+Asia,Near and Middle East /South-West Asia,Jordan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2003,52
+Asia,Central Asia  and Transcaucasian countries,Kazakhstan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,323
+Asia,Near and Middle East,Kuwait,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,44
+Asia,Central Asia  and Transcaucasian countries,Kyrgyzstan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,170
+Asia,Near and Middle East /South-West Asia,Lebanon,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,9
+Asia,East and South-East Asia,Malaysia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2010,432
+Asia,East and South-East Asia,Myanmar,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,22
+Asia,Near and Middle East /South-West Asia,Oman,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2002,5
+Asia,Near and Middle East / South-West Asia,Pakistan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,
+Asia,Near and Middle East,Qatar,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,10
+Asia,Near and Middle East / South-West Asia,Saudi Arabia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,
+Asia,Near and Middle East,Syrian Arab Republic,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,4
+Asia,Central Asia  and Transcaucasian countries,Tajikistan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,47
+Asia,Near and Middle East,United Arab Emirates,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,19
+Asia,Central Asia and Transcaucasian countries,Uzbekistan,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,547
+Asia,East and South-East Asia,Viet Nam,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,"2,184"
+Europe,Southeast Europe,Albania,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2004,8
+Europe,West & Central Europe,Andorra,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,0
+Europe,West & Central Europe,Austria,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,190
+Europe,East Europe,Belarus,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,271
+Europe,West & Central Europe,Belgium,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",National Focal Point,2010,106
+Europe,Southeast Europe,Bosnia and Herzegovina,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,40
+Europe,Southeast Europe,Bulgaria,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,21
+Europe,Southeast Europe,Croatia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,165
+Europe,West & Central Europe,Cyprus,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,10
+Europe,West & Central Europe,Czech Republic,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,39
+Europe,West & Central Europe,Denmark,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,213
+Europe,West & Central Europe,Estonia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,111
+Europe,West & Central Europe,Finland,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,274
+Europe,West & Central Europe,France,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,162
+Europe,West & Central Europe,Germany,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,"1,002"
+Europe,West & Central Europe,Gibraltar,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2008,1
+Europe,West & Central Europe,Greece,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,21
+Europe,West & Central Europe,Hungary,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,23
+Europe,West & Central Europe,Iceland,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2007,45
+Europe,West & Central Europe,Ireland,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,181
+Europe,West & Central Europe,Italy,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,313
+Europe,West & Central Europe,Latvia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,13
+Europe,West & Central Europe,Liechtenstein,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,0
+Europe,West & Central Europe,Lithuania,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,87
+Europe,West & Central Europe,Luxembourg,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,8
+Europe,Southeast Europe,Macedonia (TFYR),Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2009,23
+Europe,West & Central Europe,Malta,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,3
+Europe,East Europe,Moldova (Republic of),Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,27
+Europe,West & Central Europe,Monaco,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,0
+Europe,Southeast Europe,Montenegro,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",Govt.,2010,6
+Europe,West & Central Europe,Netherlands,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,123
+Europe,West & Central Europe,Norway,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,234
+Europe,West & Central Europe,Poland,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,227
+Europe,West & Central Europe,Portugal,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,16
+Europe,Southeast Europe,Romania,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,31
+Europe,East Europe,Russian Federation,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,"8,189"
+Europe,Southeast Europe,Serbia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2008,138
+Europe,West & Central Europe,Slovakia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2010,112
+Europe,West & Central Europe,Slovenia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,28
+Europe,West & Central Europe,Spain,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2012,"1,230"
+Europe,West & Central Europe,Sweden,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,589
+Europe,West & Central Europe,Switzerland,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,126
+Europe,Southeast Europe,Turkey,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,232
+Europe,East Europe,Ukraine,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2014,"3,311"
+Europe,West & Central Europe,United Kingdom,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2013,"3,800"
+Oceania,Oceania,Australia,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,"1,751"
+Oceania,Oceania,New Zealand,Drug Related Deaths,"Number of drug-related deaths, mortality rates per million persons aged 15-64 years and ranking of drugs as primary cause of death (2014 or latest year available)",ARQ,2011,78

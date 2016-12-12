@@ -1,0 +1,50 @@
+region,subregion,country,statcannabis,statcocaine,statdeath
+Africa,Eastern Africa,Kenya,2.1,0.3,11.3684
+Americas,Central America,El Salvador,2.03,0.47,0.131542
+Americas,Central America,Nicaragua,1.07,0.69,29.3228
+Americas,Central America,Panama,3.55,1.2,95.8153
+Americas,North America,Canada,12.7,1.1,306.575
+Americas,North America,Mexico,1.2,0.5,68.2702
+Americas,South America,Argentina,3.2,0.73,59.8575
+Americas,South America,Ecuador,0.67,0.08,21.745
+Americas,South America,Peru,1,0.7,34.9141
+Americas,South America,Uruguay,9.3,1.8,0
+Asia,Near and Middle East /South-West Asia,Israel,8.88,1.07,403.7790612
+Europe,East Europe,Belarus,1.07,0.06,41.1413
+Europe,East Europe,Ukraine,2.9,0.52,138.427
+Europe,Southeast Europe,Albania,1.8,0.78,22.3015
+Europe,Southeast Europe,Bosnia and Herzegovina,1.6,0.63,5.10381
+Europe,Southeast Europe,Bulgaria,3.5,0.2,37.6291
+Europe,Southeast Europe,Croatia,5,0.5,178.225
+Europe,Southeast Europe,Montenegro,1.9,0.52,73.9141
+Europe,Southeast Europe,Romania,2,0.2,16.9512
+Europe,Southeast Europe,Serbia,1.6,0.1,51.9269
+Europe,Southeast Europe,Turkey,0.3,0.04,20.789
+Europe,West & Central Europe,Austria,3.5,0.9,23.8634
+Europe,West & Central Europe,Belgium,4.6,0.5,423.394
+Europe,West & Central Europe,Cyprus,2.2,0.3,90.5577
+Europe,West & Central Europe,Czech Republic,8.9,0.1,29.469
+Europe,West & Central Europe,Denmark,6.9,0.9,346.854
+Europe,West & Central Europe,Estonia,6,0.6,116.148
+Europe,West & Central Europe,Finland,4.6,0.2,291.867
+Europe,West & Central Europe,France,11.1,1.1,286.872
+Europe,West & Central Europe,Germany,4.5,0.8,291.683
+Europe,West & Central Europe,Greece,1.7,0.1,88.4616
+Europe,West & Central Europe,Hungary,2.3,0.2,54.5534
+Europe,West & Central Europe,Iceland,18.3,0.92,504.01
+Europe,West & Central Europe,Ireland,6,1.5,85.0382
+Europe,West & Central Europe,Italy,9.2,1.1,54.7727
+Europe,West & Central Europe,Latvia,4,0.2,111.21
+Europe,West & Central Europe,Lithuania,2.3,0.2,41.3734
+Europe,West & Central Europe,Luxembourg,5.2,1.04,279.441
+Europe,West & Central Europe,Malta,0.9,0.5,113.14
+Europe,West & Central Europe,Netherlands,8,1.6,99.8276
+Europe,West & Central Europe,Norway,4.2,1,786.476
+Europe,West & Central Europe,Poland,4.6,0.2,150.593
+Europe,West & Central Europe,Portugal,2.7,0.2,42.0529
+Europe,West & Central Europe,Slovakia,3.63,0.2,42.3163
+Europe,West & Central Europe,Slovenia,4.4,0.5,83.4192
+Europe,West & Central Europe,Spain,9.2,2.2,32.7606
+Europe,West & Central Europe,Sweden,2.88,0.38,849.445
+Europe,West & Central Europe,Switzerland,6.7,0.5,618.978
+Oceania,Oceania,New Zealand,11,0.6,490.118

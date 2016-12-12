@@ -1,0 +1,299 @@
+[
+  {
+    "country": "Afghanistan",
+    "incomegroup": "Low income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 183000,
+    "cannabis_cultiv": 10000,
+    "latitude": 33.9391,
+    "longitude": 67.71
+  },
+  {
+    "country": "Armenia",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 1,
+    "latitude": 40.0691,
+    "longitude": 45.0382
+  },
+  {
+    "country": "Austria",
+    "incomegroup": "High income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 2,
+    "latitude": 47.5162,
+    "longitude": 14.5501
+  },
+  {
+    "country": "Azerbaijan",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 18,
+    "latitude": 40.1431,
+    "longitude": 47.5769
+  },
+  {
+    "country": "Bolivia",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 20400,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 0,
+    "latitude": -16.2902,
+    "longitude": -63.5887
+  },
+  {
+    "country": "Bulgaria",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 35,
+    "latitude": 42.7339,
+    "longitude": 25.4858
+  },
+  {
+    "country": "Colombia",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 69000,
+    "opium_cultiv": 387,
+    "cannabis_cultiv": 0,
+    "latitude": 4.57087,
+    "longitude": -74.2973
+  },
+  {
+    "country": "Costa Rica",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 6,
+    "latitude": 9.74892,
+    "longitude": -83.7534
+  },
+  {
+    "country": "Guatemala",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 640,
+    "cannabis_cultiv": 15,
+    "latitude": 15.7835,
+    "longitude": -90.2308
+  },
+  {
+    "country": "Kenya",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 133,
+    "latitude": -0.023559,
+    "longitude": 37.9062
+  },
+  {
+    "country": "Lebanon",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 3500,
+    "latitude": 33.8547,
+    "longitude": 35.8623
+  },
+  {
+    "country": "Mexico",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 24800,
+    "cannabis_cultiv": 13000,
+    "latitude": 23.6345,
+    "longitude": -102.553
+  },
+  {
+    "country": "Mongolia",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 15000,
+    "latitude": 46.8625,
+    "longitude": 103.847
+  },
+  {
+    "country": "Morocco",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 47196,
+    "latitude": 31.7917,
+    "longitude": -7.09262
+  },
+  {
+    "country": "Myanmar",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 55500,
+    "cannabis_cultiv": 15,
+    "latitude": 21.914,
+    "longitude": 95.9562
+  },
+  {
+    "country": "Nigeria",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 4529,
+    "latitude": 9.082,
+    "longitude": 8.67528
+  },
+  {
+    "country": "Pakistan",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 372,
+    "cannabis_cultiv": 0,
+    "latitude": 30.3753,
+    "longitude": 69.3451
+  },
+  {
+    "country": "Panama",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 11,
+    "latitude": 8.53798,
+    "longitude": -80.7821
+  },
+  {
+    "country": "Paraguay",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 6000,
+    "latitude": -23.4425,
+    "longitude": -58.4438
+  },
+  {
+    "country": "Peru",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 42900,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 0,
+    "latitude": -9.18997,
+    "longitude": -75.0152
+  },
+  {
+    "country": "Russian Federation",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 24096,
+    "latitude": 61.524,
+    "longitude": 105.319
+  },
+  {
+    "country": "Sierra Leone",
+    "incomegroup": "Low income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 190,
+    "latitude": 8.46056,
+    "longitude": -11.7799
+  },
+  {
+    "country": "Sri Lanka",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 500,
+    "latitude": 7.87305,
+    "longitude": 80.7718
+  },
+  {
+    "country": "Sudan",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 8,
+    "latitude": 12.8628,
+    "longitude": 30.2176
+  },
+  {
+    "country": "Swaziland",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 1500,
+    "latitude": -26.5225,
+    "longitude": 31.4659
+  },
+  {
+    "country": "Thailand",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 265,
+    "cannabis_cultiv": 0,
+    "latitude": 15.87,
+    "longitude": 100.993
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "incomegroup": "High income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 10,
+    "latitude": 10.6918,
+    "longitude": -61.2225
+  },
+  {
+    "country": "Uganda",
+    "incomegroup": "Low income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 150,
+    "latitude": 1.37333,
+    "longitude": 32.2903
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 1,
+    "latitude": 7.53999,
+    "longitude": -5.54708
+  },
+  {
+    "country": "Domnican Republic",
+    "incomegroup": "Upper middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 6,
+    "latitude": 18.7357,
+    "longitude": -70.1627
+  },
+  {
+    "country": "Egypt",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 345,
+    "latitude": 26.8206,
+    "longitude": 30.8025
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 5700,
+    "cannabis_cultiv": 0,
+    "latitude": 19.8563,
+    "longitude": 102.495
+  },
+  {
+    "country": "Republic of Moldova",
+    "incomegroup": "Lower middle income",
+    "coca_cultiv": 0,
+    "opium_cultiv": 0,
+    "cannabis_cultiv": 100,
+    "latitude": 47.4116,
+    "longitude": 28.3699
+  }
+]

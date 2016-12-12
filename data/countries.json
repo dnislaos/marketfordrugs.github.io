@@ -1,0 +1,77 @@
+[
+  {
+    "key": "Eastern Africa",
+    "region": "Africa",
+    "value": 436
+  },
+  {
+    "key": "Northern Africa",
+    "region": "Africa",
+    "value": 2301
+  },
+  {
+    "key": "Southern Africa",
+    "region": "Africa",
+    "value": 620
+  },
+  {
+    "key": "Western and Central Africa",
+    "region": "Africa",
+    "value": 2047
+  },
+  {
+    "key": "Caribbean",
+    "region": "Americas",
+    "value": 941
+  },
+  {
+    "key": "Central America",
+    "region": "Americas",
+    "value": 873
+  },
+  {
+    "key": "Northern America",
+    "region": "Americas",
+    "value": 140798
+  },
+  {
+    "key": "South America",
+    "region": "Americas",
+    "value": 7787
+  },
+  {
+    "key": "Central Asia and Transcaucasian countries",
+    "region": "Asia",
+    "value": 1295
+  },
+  {
+    "key": "East and South-East Asia",
+    "region": "Asia",
+    "value": 43773
+  },
+  {
+    "key": "Near and Middle East /South-West Asia",
+    "region": "Asia",
+    "value": 11108
+  },
+  {
+    "key": "Eastern Europe",
+    "region": "Europe",
+    "value": 39048
+  },
+  {
+    "key": "South-Eastern Europe",
+    "region": "Europe",
+    "value": 17509
+  },
+  {
+    "key": "Western & Central Europe",
+    "region": "Europe",
+    "value": 49043
+  },
+  {
+    "key": "Oceania",
+    "region": "Oceania",
+    "value": 2421
+  }
+]

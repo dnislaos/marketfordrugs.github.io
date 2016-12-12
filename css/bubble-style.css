@@ -1,0 +1,61 @@
+.content-3 {
+    padding-top: 5%;
+    text-align: center;
+    color: #fff;
+    background-color: black;
+}
+
+.bubble-parent {
+    stroke: white;
+    stroke-width: 1px;
+}
+
+.bubble-btnStyle {
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+    padding: 4px;
+    width:20%;
+}
+
+.bubble-wrap {
+    visibility:hidden;
+}
+
+#bubble-intro {
+    position: relative;
+    font-size: 50px;
+    top: 35%;
+    color: red;
+}
+
+
+#bubble-button-intro {
+    position: relative;
+    font-size: 50%;
+}
+#bubble-button-intro:hover {
+    background-color: white;
+}
+
+
+#bubble-buttons1, #bubble-buttons2 {
+    padding-bottom: 2%;
+}
+
+.bubble-btnStyle:hover {
+    background-color: red;
+}
+
+.bubble-name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#bubble-message {
+    font-size: 15px;
+    text-align: justify;
+    margin-top: 10%;
+    margin-left: 5%;
+}

@@ -1,0 +1,90 @@
+
+
+.content-1 {
+    background-color: black;
+    padding: 0 0 0 0;
+    text-align: center;
+    position: relative;
+}
+
+.map-section-heading {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-size: 50px;
+    text-align: center;
+    color: #ff0000;
+}
+
+
+
+.tooltip-title {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.map-d3-tip {
+    line-height: 1;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.map-d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips differently */
+.map-d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+
+.map-form-inline {
+    padding: 5px;
+}
+
+.map-text-light{
+    color: white;
+}
+
+.map-text-source{
+    font-size: 15px;
+    color: white;
+}
+
+#map-text {
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+}
+
+
+
+.map-coca .map-coca2 .map-opium .map-opium2 .map-cannabis .map-cannabis2 .map-legend-circle {
+    fill: none;
+    stroke-width: 2px;
+    stroke: ligthgrey;
+}
+
+.map-legend .map-legend-text {
+    fill: white;
+}
+
+.map-legend .map-legend-circle {
+    fill: none;
+    stroke-width: 2px;
+    stroke: grey;
+
+}

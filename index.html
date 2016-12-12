@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>The market for drugs</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/header-style.css">
+    <link rel="stylesheet" href="css/goal-style.css">
+    <link rel="stylesheet" href="css/treemap.css">
+    <link rel="stylesheet" href="css/scatterplot-style.css">
+    <link rel="stylesheet" href="css/bubble-style.css">
+    <link rel="stylesheet" href="css/map-style.css">
+
+
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/size-style.css">
+
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav id="siteNav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Logo and responsive toggle -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">
+                    <span class="glyphicon glyphicon-home"></span>
+                	CS 171
+                </a>
+            </div>
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active">
+                        <a href="#goal-section">Our goal</a>
+                    </li>
+                    <li>
+                        <a href="#market-size">Market size</a>
+                    </li>
+                    <li>
+                        <a href="#supply_demand">Supply and Demand</a>
+                    </li>
+                    <li>
+                        <a href="#scatter-section">Drugs and development</a>
+                    </li>
+                    <li>
+                        <a href="#prices" id="pricesclick">Markup</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Contact</a>
+                    </li>
+
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+
+	<!-- Header -->
+    <header>
+        <div class="container">
+        <div class="header-content">
+            <div class="letter-container" id="letter-container">
+                <h2 id="pagetitle">
+                    <a>The Market for Drugs</a>
+                </h2>
+            </div>
+            <div class="text-container">
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-8">
+                        <p id="mainquote"><em>"Follow the supply chain and you'll find a trail of horrific violence."</em></br>
+                            - Mario Berlanga</p>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+                <div class="row">
+                    <p style="visibility: hidden;">placehold</p>
+                    <p style="visibility: hidden;">placehold</p>
+                </div>
+                <div class="row">
+                <a href="#" class="btn btn-primary btn-lg">Watch Video</a>
+                </div>
+            </div>
+        </div>
+        </div>
+    </header>
+
+	<!-- Intro Section -->
+    <section class="content content-4" id="goal-section">
+        <div class="container">
+        <h2 class="goal-section-heading">OUR GOAL</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="row" id="goal-section-h1">
+                        Discouraging consumption can save lives down the supply chain.
+                    </div>
+                    <div class="row" id="goal-section-p">
+                        <p>The health consequences of consuming drugs are widespread but the social and economic losses are much greater
+                        and difficult to estimate. Attention in the media is constantly given to cases of arrest or prosecution of drug traffickers,
+                        but little is portrayed regarding the impact of the drug trafficking network on countries’ welfare. Regardless on your stand on legalization, we encourage you to think about
+                            how illegal drug trafficking is still taking lives around the world.
+                       </p>
+                    </div>
+
+                </div>
+                <div class="col-md-6">screencast
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+
+    <section class="content intro" id="market-size">
+        <div class="container">
+            <h2 class="size-section-heading">Market size</h2>
+            <div class="row">
+                <h2>"The most recent UN estimates place total retail sales of illicit drugs at US$320 billion."</h2>
+            </div>
+            <div class="row">
+                <h3 style="background-color: red;">How is it financed?</h3>
+            </div>
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
+                    <div id="treemap"></div>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row">
+                <h3 style="background-color: red;">What does it finance?</h3>
+            </div>
+                <div class="row">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="4"></li>
+                            <li data-target="#myCarousel" data-slide-to="5"></li>
+                            <li data-target="#myCarousel" data-slide-to="6"></li>
+                            <li data-target="#myCarousel" data-slide-to="7"></li>
+                            <li data-target="#myCarousel" data-slide-to="9"></li>
+                            <li data-target="#myCarousel" data-slide-to="10"></li>
+                            <li data-target="#myCarousel" data-slide-to="11"></li>
+                            <li data-target="#myCarousel" data-slide-to="12"></li>
+
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item active">
+                                <img src="images/headlinesDrug/headline1.png" alt="1">
+                            </div>
+
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline2.png" alt="2">
+                            </div>
+
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline3.png" alt="3">
+                            </div>
+
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline4.png" alt="4">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline5.png" alt="5">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline6.png" alt="6">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline7.png" alt="7">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline8.png" alt="8">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline9.png" alt="9">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline10.png" alt="10">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline11.png" alt="11">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline12.png" alt="12">
+                            </div>
+                            <div class="item">
+                                <img src="images/headlinesDrug/headline13.png" alt="13">
+                            </div>
+                        </div>
+
+                        <!-- Left and right controls -->
+                        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+
+                </div>
+                    <div class="col-md-3"></div>
+                </div>
+        </div>
+    </section>
+
+
+
+    <section class="content content-1" id="supply_demand" style="height: 120%">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2 class="map-section-heading">Supply and Demand</h2>
+                    <p class="map-text-light">South America produces nearly all the cocaine, while the US consumes around 40% of it. In fact, the US consumes more than 30% of all drugs. </p>
+                    <p class="map-text-source">  -Mario Berlanga </p>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-4">
+                        <form class="map-form-inline">
+                            <div class="form-group">
+                                <label for="option" style="color: white;">Select variable: </label>
+                                <select id="option" class="form-control" onchange="supplydemandmap.updateVis()">
+                                    <option value="hectares">Production (hectares)</option>
+                                    <option value="prevalence">Annual Prevalence of use (% of the population aged 15-64)</option>
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-4">
+                        <form class="map-form-inline">
+                            <div class="form-group">
+                                <label for="option" style="color: white;">Select countries: </label>
+                                <select id="options" class="form-control" onchange="supplydemandmap.updateVis()">
+                                    <option value="op1">All countries</option>
+                                    <option value="op2">Developing countries</option>
+                                    <option value="op3">High income countries</option>
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="row" id="SupplyDemand"></div>
+                    </div>
+                    <div class="col-md-4">
+                        <p style="visibility: hidden;">placehold</p>
+                        <p class="row" id="map-text"> "While the mayority of drugs are produced in developing countries, consumption is centered on high-income nations.
+                        Only 12 hectares of land are used to produce drugs (cannabis) in wealthy countries. This represent less than 0.01% of the total area
+                        of cannabis cultivation worldwide. At the same time, 12 out of the 15 countries with highest consumption of cannabis in the globe are high-income nations
+                        and 14 out of the 15 countries with the biggest coca consumption are wealthy countries."</p>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <!-- Content 2 -->
+    <section class="content content-2" id="scatter-section">
+        <h2 class="scatter-section-heading">Drugs and development</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="row" id="scatter-column-text">
+
+                        "Illicit drugs exacerbate some of the serious problems that the world is facing.
+                        The financial and employment effects generated by the illicit drug trade mask the negative side
+                        effects on the economic, social and environmental fronts.
+                        The short-term gains are far outweighed by the social and economic ills ushered in by illicit drugs"
+                        <p style="visibility: hidden;">placehold</p>
+                        <p>Source: United Nations - Drugs and Development</p>
+                    </div>
+                    <div class="row" id="scatter-svg-legend">
+                    </div>
+
+                </div>
+                <div class="col-md-9" id="scatterPlot"></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="content content-3" id="prices" style="height: 130%">
+        <p id="bubble-intro"></p>
+        <div class="container bubble-wrap">
+            <div class="row">
+                      <div class="col-md-6">
+                        <div class="row"></div>
+                        <div class="row" id="bubble-buttons1"><p style="color: white;">Select a drug: </p>
+                            <button class="bubble-btnStyle span3" onclick="bubblechart.filterDrug(this);">Cocaine</button>
+                            <button class="bubble-btnStyle span3" onclick="bubblechart.filterDrug(this);">Cannabis</button>
+                        </div>
+                          <div class="row" id="bubble-buttons2"><p style="color: white;">Select pricing: </p>
+                            <button class="bubble-btnStyle span3" onclick="bubblechart.filter(this);">Retail</button>
+                            <button class="bubble-btnStyle span3" onclick="bubblechart.filter(this);">Wholesale</button>
+                        </div>
+                        <div class="row" id="bubble-chart"></div>
+                      </div>
+                <div class="col-md-1" id="bubble-legend"></div>
+                <div class="col-md-3" id="bubble-message">
+
+                    <p>"Drug markups are highest at the retail level, offsetting risks which are also
+                    the highest at this point in the supply chain, since retailers are most exposed to
+                    law enforcement and interact with a relatively unpredictable and shifting
+                    clientele."</br> </br> Source: </p>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!--
+    <section class="video">
+        <video autoplay width="320" height="240" >
+            <source src="video/Recording.mp4" type="video/mp4">
+        </video>
+    </section>
+    -->
+
+	<!-- Footer -->
+    <footer class="page-footer">
+
+        <div class="contact" id="contact">
+            <div class="container">
+                <h2 class="section-heading">About us</h2>
+                <div class="row">
+                    <div class="col-md-2"> <img class="img-rounded" src="images/contact/Denisse.jpg"; style= "width:195px; height:200px;">
+
+                    </div>
+
+                    <div class="col-md-2"> <h4>Denisse Laos</h4>
+                        <p>Peruvian economist and MPA/ID candidate, specialist in social and economic research with experience in institutions such as IABD and IPA.</p>
+                        <p>
+                            <a href="mailto:Denisse_Laos@hks17.harvard.edu" class="emails">
+                                <i class="fa fa-envelope fa-2x" aria-hidden="true"></i>
+                            </a>   
+                            <a href="https://www.linkedin.com/in/denisse-laos-5313b145" target="_blank" class="emails">
+                                <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+                            </a>
+                        </p>
+                    </div>
+
+
+                    <div class="col-md-2"><img class="img-rounded"src="images/contact/Kenyi.jpg"; style= "width:195px; height:200px;">
+                    </div>
+                    <div class="col-md-2"><h4>Kenyi Cansino</h4>
+                        <p>Peruvian economist and MPA/ID candidate, focused on fiscal policy with experience in economic, social, and environmental policy design.</p>
+                        <p>
+                            <a href="mailto:Kenyi_Cansino@hks17.harvard.edu" class="emails"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>   
+                            <a href="https://www.linkedin.com/in/kenyicansino" target="_blank" class="emails"> <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                        </p>
+                    </div>
+
+
+                    <div class="col-md-2"><img class="img-rounded"src="images/contact/Marcela.jpeg"; style= "width:195px; height:200px;">
+                    </div>
+
+                    <div class="col-md-2"><h4>Marcela Gutierrez Bernal</h4>
+                        <p>Colombian economist and MPA/ID candidate with experience designing and evaluating social programs.</p>
+                        <p>
+                            <a href="mailto:Marcela_Gutierrez@hks17.harvard.edu" class="emails"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>   
+                            <a href="ttps://www.linkedin.com/in/marcela-gutierrez-bernal-99077829" target="_blank" class="emails"> <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        &nbsp
+        <section id="iconsNew" class="wrapper style1 special">
+            <div class="container">
+                <div class="row 150%">
+                    <div class="4u 12u$(medium) col-md-6">
+                        <section class="box">
+                            <i class="icon big rounded color2 fa-gift"></i>
+                            <h3>Acknowledgements</h3>
+                            <p>We are really grateful to <a href="http://www.nytimes.com/2016/09/27/opinion/want-to-make-ethical-purchases-stop-buying-illegal-drugs.html?_r=0"> Mario Berlanga</a> for the provision of valuable information which greatly enriched our project.
+                                We also sincerely thank our instructor <a href="https://www.seas.harvard.edu/directory/pfister"> Hanspeter Pfister</a>, and the teaching fellows for their guidance and encouragement.
+                                Finally, we are thankful to our fellow students, who provided useful feedback that lead to the improvement of the project.
+                                The contents of this website do not reflect the official opinion of Harvard University or any other institution cited in this space.</p>
+                        </section>
+                    </div>
+
+                    <div class="4u$ 12u$(medium) col-md-6">
+                        <section class="box">
+                            <i class="icon big rounded color6 fa fa-file-code-o"></i>
+                            <h3>Plugins</h3>
+                            <p>
+                                <a href="http://d3js.org/" target="_blank">d3.js</a>
+                                - Visualizations
+                            </p>
+                            <p>
+                                <a href="http://getbootstrap.com/getting-started/" target="_blank">Bootstrap</a>
+                                - Webpage layout
+                            </p>
+                            <p>
+                                <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">Font Awesome</a>
+                                - Icons
+                            </p>
+                            <p>
+                                <a href="http://colorbrewer2.org/#" target="_blank">Color Brewer</a>
+                                - Colors
+                            </p>
+                            <p>
+                                <a href="https://github.com/topojson/topojson" target="_blank">Topojson</a>
+                                - Map
+                            </p>
+                            <p>
+                                <a href="https://api.jquery.com/" target="_blank">jQuery</a>
+                                - Codes
+                            </p>
+
+                        </section>
+                    </div>
+
+                </div>
+                &nbsp
+                <div class="row 150%">
+                    <div class="4u 12u$(medium) col-md-6">
+                        <section class="box">
+                            <i class="icon big rounded color7 fa fa-database"></i>
+                            <h3>Data sources</h3>
+                            <p>Drug related indicators:<a href="https://www.unodc.org/wdr2016/index.html"> World Drug Report 2016</a>.</p>
+                            <p>Social and economic indicators:<a href="http://databank.worldbank.org/data/home.aspx"> World Development Indicators</a>.</p>
+                            <p>Illegal market size:<a href="http://www.cicad.oas.org/drogas/elinforme/informeDrogas2013/laEconomicaNarcotrafico_ENG.pdf"> The Drug Problem in the Americas</a>.</p>
+                        </section>
+                    </div>
+
+
+                    <div class="4u$ 12u$(medium) col-md-6">
+                        <section class="box">
+                            <i class="icon big rounded color11 fa fa-book"></i>
+                            <h3>Process book</h3>
+                            <p> <a href="data/Process_book_vfinal.pdf" target="_blank">Download the process book</a> </p>
+                        </section>
+                    </div>
+                </div>
+
+
+            </div>
+        </section>
+    </footer>
+
+
+
+
+    <!-- Load JS libraries: jQuery, bootstrap, D3 -->
+     <script src="js/colorbrewer.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.lettering.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/topojson.v1.min.js"></script>
+    <script src="js/queue.v1.min.js"></script>
+     <script src="js/d3.min.js"></script>
+    <script src="js/d3.tip.js"></script>
+    <script src="js/d3-hierarchy.min.js"></script>
+
+
+
+    <!-- Custom Javascript -->
+    <script src="js/parallel.js"></script>
+    <script src="js/scatterplot.js"></script>
+    <script src="js/bubble.js"></script>
+    <script src="js/SupplyDemandMap.js"></script>
+    <script src="js/treemap.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
