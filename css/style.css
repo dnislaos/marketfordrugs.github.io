@@ -3,6 +3,8 @@ body {
     width: 100%;
     height: 100%;
     font-family: Calibri, sans-serif;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
 }
 
 a {
@@ -15,14 +17,11 @@ a:focus {
     color: #fff6fe;
 }
 
-.content {
-    padding: 10px 0;
-}
-
 header {
     position: relative;
     width: 100%;
     min-height: auto;
+    padding-left: 5%;
     text-align: center;
     color: #fff;
     background-image: url('../images/header2_opc2.jpg');
@@ -60,8 +59,8 @@ header {
 
 
 .page-footer {
-	text-align: center;
-	}
+    text-align: center;
+}
 
 .page-footer .contact {
     padding-top: 100px;
@@ -69,26 +68,25 @@ header {
     padding-left: 0;
     padding-bottom: 100px;
     background-color: rgba(38, 13, 51, 0.89);
-	color: #fff;
-	}
+    color: #fff;
+}
 
 .page-footer .contact p {
-	font-size: 15px;
-	font-weight: 100;
+    font-size: 15px;
+    font-weight: 100;
     text-align: center;
-    margin-left: 20px;
-	}
-	
+}
+
 
 .page-footer .contact {
-	font-size: 32px;
-	font-weight: 700;
-	}
-		
+    font-size: 32px;
+    font-weight: 700;
+}
+
 .page-footer .small-print {
-	padding: 50px 0 40px;
-	font-weight: 300;
-	}
+    padding: 50px 0 40px;
+    font-weight: 300;
+}
 
 .text-light {
     color: black;
@@ -265,13 +263,6 @@ fieldset[disabled] .btn-default.active {
 }
 
 
-.btn {
-    border-radius: 300px;
-}
-
-.btn-lg {
-    padding: 15px 30px;
-}
 
 ::-moz-selection {
     text-shadow: none;
@@ -285,15 +276,7 @@ fieldset[disabled] .btn-default.active {
     background: #222;
 }
 
-img::selection {
-    color: #fff;
-    background: 0 0;
-}
 
-img::-moz-selection {
-    color: #fff;
-    background: 0 0;
-}
 
 .background path {
     fill: none;
@@ -315,12 +298,10 @@ img::-moz-selection {
     border-width: 5px;
     font-size: 20px;
     padding: 1%;
-    visibility: hidden;
     border-radius: 50px;
 }
 
 
-/*-----------------------------------------------------*/
 /* Icon */
 
 .icon {
@@ -426,187 +407,15 @@ img::-moz-selection {
     background-color: #f2600b;
 }
 
-
-
-a {
+a{
     color: red;
 
     transition: all .35s;
 }
 
 a:hover,
-a:focus {
+a:focus{
     color: #fff6fe;
 }
 
-
-/*-------------------------------------------*/
-
-.btn-default {
-    border-color: #fff;
-    color: #222;
-    background-color: #fff;
-    -webkit-transition: all .35s;
-    -moz-transition: all .35s;
-    transition: all .35s;
-}
-
-.btn-default:hover,
-.btn-default:focus,
-.btn-default.focus,
-.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-    border-color: #eee;
-    color: #222;
-    background-color: #eee;
-}
-
-.btn-default:active,
-.btn-default.active,
-.open > .dropdown-toggle.btn-default {
-    background-image: none;
-}
-
-.btn-default.disabled,
-.btn-default[disabled],
-fieldset[disabled] .btn-default,
-.btn-default.disabled:hover,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default:hover,
-.btn-default.disabled:focus,
-.btn-default[disabled]:focus,
-fieldset[disabled] .btn-default:focus,
-.btn-default.disabled.focus,
-.btn-default[disabled].focus,
-fieldset[disabled] .btn-default.focus,
-.btn-default.disabled:active,
-.btn-default[disabled]:active,
-fieldset[disabled] .btn-default:active,
-.btn-default.disabled.active,
-.btn-default[disabled].active,
-fieldset[disabled] .btn-default.active {
-    border-color: #fff;
-    background-color: #fff;
-}
-
-.btn-default .badge {
-    color: #fff;
-    background-color: #222;
-}
-
-.btn-primary {
-    border-color: red;
-    color: #fff;
-    background-color: red;
-    -webkit-transition: all .35s;
-    -moz-transition: all .35s;
-    transition: all .35s;
-}
-
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary.focus,
-.btn-primary:active,
-.btn-primary.active,
-.open > .dropdown-toggle.btn-primary {
-    border-color: #dd1c0a;
-    color: #fff;
-    background-color: #ff130b;
-}
-
-.btn-primary:active,
-.btn-primary.active,
-.open > .dropdown-toggle.btn-primary {
-    background-image: none;
-}
-
-.btn-primary.disabled,
-.btn-primary[disabled],
-fieldset[disabled] .btn-primary,
-.btn-primary.disabled:hover,
-.btn-primary[disabled]:hover,
-fieldset[disabled] .btn-primary:hover,
-.btn-primary.disabled:focus,
-.btn-primary[disabled]:focus,
-fieldset[disabled] .btn-primary:focus,
-.btn-primary.disabled.focus,
-.btn-primary[disabled].focus,
-fieldset[disabled] .btn-primary.focus,
-.btn-primary.disabled:active,
-.btn-primary[disabled]:active,
-fieldset[disabled] .btn-primary:active,
-.btn-primary.disabled.active,
-.btn-primary[disabled].active,
-fieldset[disabled] .btn-primary.active {
-    border-color: #ff130b;
-    background-color: #ff130b;
-}
-
-.btn-primary .badge {
-    color: #ff130b;
-    background-color: #3e86ff;
-}
-
-
-.btn {
-    border-radius: 300px;
-    text-transform: uppercase;
-}
-
-.btn-lg {
-    padding: 15px 30px;
-}
-
-::-moz-selection {
-    text-shadow: none;
-    color: #fff;
-    background: #222;
-}
-
-::selection {
-    text-shadow: none;
-    color: #fff;
-    background: #222;
-}
-
-img::selection {
-    color: #fff;
-    background: 0 0;
-}
-
-img::-moz-selection {
-    color: #fff;
-    background: 0 0;
-}
-
-.text-primary {
-    color: #ff130b;
-}
-
-.bg-primary {
-    background-color: #ff130b;
-}
-
-
-.background path {
-    fill: none;
-    stroke: rgba(92, 92, 92, 0.4);
-    shape-rendering: crispEdges;
-}
-
-
-.foreground path {
-    fill: none;
-    stroke: #dd1c0a;
-    shape-rendering: crispEdges;
-}
-
-
-.intro2 {
-    color: #ff4878;
-    background-color: black;
-    padding: 70px 0;
-    text-align: center;
-}
 

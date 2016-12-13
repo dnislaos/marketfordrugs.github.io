@@ -2,6 +2,38 @@
  * Created by marcelagba on 11/25/16.
  */
 
+
+$(".map-section-heading").append("Supply and Demand");
+var r = $('</br> <input type="button" class="bubble-btnStyle" id="map-button-intro" value="Start" onclick="startmapvis();"/>');
+$(".map-section-heading").append(r);
+
+$( "#mapclick" ).click(function() {
+    $(".map-section-heading").fadeOut(100);
+    $(".map-section-heading").fadeIn(3000);
+});
+
+function startmapvis() {
+
+    $("#map-button-intro").animate({
+        top: "0%"
+    }, function(){
+        $("#map-button-intro").remove()
+    });
+
+    $(".map-section-heading").animate({
+        top: "0%"
+    }, function () {
+
+        if ($('.map-wrap').css('visibility') == 'hidden')
+        {
+            $('.map-wrap').css({opacity: 0.2, visibility: "visible"}).animate({opacity: 1.0},1000);
+
+        }
+    });
+};
+
+
+
 SupplyDemandMap = function(_parentElement, _data, _data2, _data3){
     this.parentElement = _parentElement;
     this.world = _data;

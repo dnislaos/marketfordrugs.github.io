@@ -2,20 +2,8 @@
 
 .content-1 {
     background-color: black;
-    padding: 0 0 0 0;
-    text-align: center;
-    position: relative;
+    width: 100%;
 }
-
-.map-section-heading {
-    margin-top: 5%;
-    margin-bottom: 2%;
-    font-size: 50px;
-    text-align: center;
-    color: #ff0000;
-}
-
-
 
 .tooltip-title {
     display: block;
@@ -88,3 +76,28 @@
     stroke: grey;
 
 }
+
+
+.map-wrap {
+    visibility: hidden;
+}
+
+#map-button-intro {
+    position: relative;
+    font-size: 50%;
+}
+#map-button-intro:hover {
+    background-color: white;
+}
+
+
+.map-section-heading {
+    position: relative;
+    font-size: 50px;
+    top: 45%;
+    color: red;
+    text-align:center;
+}
+
+
+

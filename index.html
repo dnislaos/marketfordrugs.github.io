@@ -1,26 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <title>The market for drugs</title>
 
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header-style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/goal-style.css">
+    <link rel="stylesheet" href="css/size-style.css">
     <link rel="stylesheet" href="css/treemap.css">
     <link rel="stylesheet" href="css/scatterplot-style.css">
     <link rel="stylesheet" href="css/bubble-style.css">
     <link rel="stylesheet" href="css/map-style.css">
-
-
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/size-style.css">
-
 
 </head>
 
@@ -52,10 +49,10 @@
                         <a href="#market-size">Market size</a>
                     </li>
                     <li>
-                        <a href="#supply_demand">Supply and Demand</a>
+                        <a href="#supply_demand" id="mapclick">Supply and Demand</a>
                     </li>
                     <li>
-                        <a href="#scatter-section">Drugs and development</a>
+                        <a href="#scatter-section" id="developmentclick">Drugs and development</a>
                     </li>
                     <li>
                         <a href="#prices" id="pricesclick">Markup</a>
@@ -71,7 +68,7 @@
     </nav>
 
 	<!-- Header -->
-    <header>
+    <header style="width:100%; height: 100%;">
         <div class="container">
         <div class="header-content">
             <div class="letter-container" id="letter-container">
@@ -93,7 +90,7 @@
                     <p style="visibility: hidden;">placehold</p>
                 </div>
                 <div class="row">
-                <a href="#" class="btn btn-primary btn-lg">Watch Video</a>
+                <a href="#goal-section" class="btn btn-primary btn-lg">Watch Video</a>
                 </div>
             </div>
         </div>
@@ -101,7 +98,7 @@
     </header>
 
 	<!-- Intro Section -->
-    <section class="content content-4" id="goal-section">
+    <section class="content content-4" id="goal-section" style="height: 130%">
         <div class="container">
         <h2 class="goal-section-heading">OUR GOAL</h2>
         <div class="container">
@@ -113,43 +110,47 @@
                     <div class="row" id="goal-section-p">
                         <p>The health consequences of consuming drugs are widespread but the social and economic losses are much greater
                         and difficult to estimate. Attention in the media is constantly given to cases of arrest or prosecution of drug traffickers,
-                        but little is portrayed regarding the impact of the drug trafficking network on countries’ welfare. Regardless on your stand on legalization, we encourage you to think about
+                        but little is portrayed regarding the impact of the drug trafficking network on global welfare. Regardless on your stand on legalization, we encourage you to think about
                             how illegal drug trafficking is still taking lives around the world.
                        </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+
                     </div>
 
                 </div>
-                <div class="col-md-6">screencast
+                <div class="col-md-6">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_FU23cg-tqQ" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
         </div>
     </section>
 
-
-    <section class="content intro" id="market-size">
+    <section class="content intro" id="market-size" style="height: 120%">
+        <h2 class="size-section-heading">US$320 billion Market</h2>
         <div class="container">
-            <h2 class="size-section-heading">Market size</h2>
             <div class="row">
-                <h2>"The most recent UN estimates place total retail sales of illicit drugs at US$320 billion."</h2>
-            </div>
-            <div class="row">
-                <h3 style="background-color: red;">How is it financed?</h3>
-            </div>
-            <div class="row">
-                <div class="col-md-3"></div>
                 <div class="col-md-6">
-                    <div id="treemap"></div>
+                    <div class="row size-section-heading2">Drugs Market Size, by region (millions US$)
+                    </div>
+                    <div class="row">
+                    <p style="padding-left: 3%">Own estimates based on cocaine salt price and population, last year available.</p>
+                    </div>
+                    <p class="size-button"></p>
+                    <div class="container treemap-wrapper">
+                    <div class="row">
+                        <div id="treemap"></div>
+                    </div>
+                    </div>
                 </div>
-                <div class="col-md-3"></div>
-            </div>
-            <div class="row">
-                <h3 style="background-color: red;">What does it finance?</h3>
-            </div>
-                <div class="row">
-                    <div class="col-md-3"></div>
-                    <div class="col-md-6">
-                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <div class="col-md-6">
+                    <div class="row size-section-heading2">What does it finance?</div>
+                    <p class="size2-button"></p>
+                    <div id="myCarousel" class="carousel slide treemap-wrapper2" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -158,84 +159,57 @@
                             <li data-target="#myCarousel" data-slide-to="4"></li>
                             <li data-target="#myCarousel" data-slide-to="5"></li>
                             <li data-target="#myCarousel" data-slide-to="6"></li>
-                            <li data-target="#myCarousel" data-slide-to="7"></li>
-                            <li data-target="#myCarousel" data-slide-to="9"></li>
-                            <li data-target="#myCarousel" data-slide-to="10"></li>
-                            <li data-target="#myCarousel" data-slide-to="11"></li>
-                            <li data-target="#myCarousel" data-slide-to="12"></li>
 
                         </ol>
 
                         <!-- Wrapper for slides -->
-                        <div class="carousel-inner" role="listbox">
+                        <div class="carousel-inner treemap-wrapper2" role="listbox">
                             <div class="item active">
-                                <img src="images/headlinesDrug/headline1.png" alt="1">
+                                <img src="images/violenceDrugs/picture1.jpg" alt="1">
                             </div>
 
                             <div class="item">
-                                <img src="images/headlinesDrug/headline2.png" alt="2">
+                                <img src="images/violenceDrugs/picture2.jpg" alt="2">
                             </div>
 
                             <div class="item">
-                                <img src="images/headlinesDrug/headline3.png" alt="3">
+                                <img src="images/violenceDrugs/picture3.jpg" alt="3">
                             </div>
 
                             <div class="item">
-                                <img src="images/headlinesDrug/headline4.png" alt="4">
+                                <img src="images/violenceDrugs/picture4.jpg" alt="4">
                             </div>
                             <div class="item">
-                                <img src="images/headlinesDrug/headline5.png" alt="5">
+                                <img src="images/violenceDrugs/picture5.jpg" alt="5">
                             </div>
                             <div class="item">
-                                <img src="images/headlinesDrug/headline6.png" alt="6">
+                                <img src="images/violenceDrugs/picture6.jpg" alt="6">
                             </div>
                             <div class="item">
-                                <img src="images/headlinesDrug/headline7.png" alt="7">
-                            </div>
-                            <div class="item">
-                                <img src="images/headlinesDrug/headline8.png" alt="8">
-                            </div>
-                            <div class="item">
-                                <img src="images/headlinesDrug/headline9.png" alt="9">
-                            </div>
-                            <div class="item">
-                                <img src="images/headlinesDrug/headline10.png" alt="10">
-                            </div>
-                            <div class="item">
-                                <img src="images/headlinesDrug/headline11.png" alt="11">
-                            </div>
-                            <div class="item">
-                                <img src="images/headlinesDrug/headline12.png" alt="12">
-                            </div>
-                            <div class="item">
-                                <img src="images/headlinesDrug/headline13.png" alt="13">
+                                <img src="images/violenceDrugs/picture7.jpg" alt="7">
                             </div>
                         </div>
 
                         <!-- Left and right controls -->
-                        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                        <a class="left carousel-control treemap-wrapper2" href="#myCarousel" role="button" data-slide="prev">
                             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                             <span class="sr-only">Previous</span>
                         </a>
-                        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                        <a class="right carousel-control treemap-wrapper2" href="#myCarousel" role="button" data-slide="next">
                             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                             <span class="sr-only">Next</span>
                         </a>
                     </div>
-
                 </div>
-                    <div class="col-md-3"></div>
-                </div>
+            </div>
         </div>
     </section>
 
-
-
-    <section class="content content-1" id="supply_demand" style="height: 120%">
-        <div class="container">
+    <section class="content-1" id="supply_demand" style="height: 120%">
+        <p class="map-section-heading"></p>
+        <div class="container map-wrap">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2 class="map-section-heading">Supply and Demand</h2>
                     <p class="map-text-light">South America produces nearly all the cocaine, while the US consumes around 40% of it. In fact, the US consumes more than 30% of all drugs. </p>
                     <p class="map-text-source">  -Mario Berlanga </p>
                 </div>
@@ -283,13 +257,12 @@
     </section>
 
     <!-- Content 2 -->
-    <section class="content content-2" id="scatter-section">
-        <h2 class="scatter-section-heading">Drugs and development</h2>
-        <div class="container">
+    <section class="content content-2" id="scatter-section" style="height: 120%">
+        <p class="scatter-section-heading"></p>
+        <div class="container scatter-wrap">
             <div class="row">
                 <div class="col-md-3">
                     <div class="row" id="scatter-column-text">
-
                         "Illicit drugs exacerbate some of the serious problems that the world is facing.
                         The financial and employment effects generated by the illicit drug trade mask the negative side
                         effects on the economic, social and environmental fronts.
@@ -306,29 +279,30 @@
         </div>
     </section>
 
-    <section class="content content-3" id="prices" style="height: 130%">
+    <section class="content content-3" id="prices" style="height: 120%">
         <p id="bubble-intro"></p>
         <div class="container bubble-wrap">
             <div class="row">
                       <div class="col-md-6">
-                        <div class="row"></div>
-                        <div class="row" id="bubble-buttons1"><p style="color: white;">Select a drug: </p>
-                            <button class="bubble-btnStyle span3" onclick="bubblechart.filterDrug(this);">Cocaine</button>
-                            <button class="bubble-btnStyle span3" onclick="bubblechart.filterDrug(this);">Cannabis</button>
-                        </div>
-                          <div class="row" id="bubble-buttons2"><p style="color: white;">Select pricing: </p>
-                            <button class="bubble-btnStyle span3" onclick="bubblechart.filter(this);">Retail</button>
-                            <button class="bubble-btnStyle span3" onclick="bubblechart.filter(this);">Wholesale</button>
-                        </div>
+                        <div class="row" id="bubble-title" style="font-size: 20px;"></div>
                         <div class="row" id="bubble-chart"></div>
                       </div>
-                <div class="col-md-1" id="bubble-legend"></div>
-                <div class="col-md-3" id="bubble-message">
-
-                    <p>"Drug markups are highest at the retail level, offsetting risks which are also
+                <div class="col-md-1">
+                    <div class="row" id="bubble-legend"></div>
+                </div>
+                <div class="col-md-5">
+                    <div class="row" id="bubble-buttons1"><p style="color: white;">Select a drug: </p>
+                        <button class="bubble-btnStyle bubble-btnStyle1 span3" onclick="bubblechart.selectDrug(this);">Cocaine</button>
+                        <button class="bubble-btnStyle bubble-btnStyle1 span3" onclick="bubblechart.selectDrug(this);">Cannabis</button>
+                    </div>
+                    <div class="row" id="bubble-buttons2"><p style="color: white;">Select pricing: </p>
+                        <button class="bubble-btnStyle bubble-btnStyle1 span3" onclick="bubblechart.filter(this);">Retail</button>
+                        <button class="bubble-btnStyle bubble-btnStyle1 span3" onclick="bubblechart.filter(this);">Wholesale</button>
+                    </div>
+                    <p id="bubble-message">"Drug markups are highest at the retail level, offsetting risks which are also
                     the highest at this point in the supply chain, since retailers are most exposed to
                     law enforcement and interact with a relatively unpredictable and shifting
-                    clientele."</br> </br> Source: </p>
+                    clientele."</br> </br> Source: OEA - The Economics of Drug Trafficking</p>
 
                 </div>
             </div>
@@ -345,10 +319,9 @@
     -->
 
 	<!-- Footer -->
-    <footer class="page-footer">
-
+    <footer class="page-footer" style="height: 120%; width: 100%;">
         <div class="contact" id="contact">
-            <div class="container">
+            <div class="container-fluid">
                 <h2 class="section-heading">About us</h2>
                 <div class="row">
                     <div class="col-md-2"> <img class="img-rounded" src="images/contact/Denisse.jpg"; style= "width:195px; height:200px;">
@@ -393,8 +366,6 @@
                 </div>
             </div>
         </div>
-
-        &nbsp
         <section id="iconsNew" class="wrapper style1 special">
             <div class="container">
                 <div class="row 150%">
@@ -442,7 +413,7 @@
                     </div>
 
                 </div>
-                &nbsp
+
                 <div class="row 150%">
                     <div class="4u 12u$(medium) col-md-6">
                         <section class="box">
@@ -482,8 +453,6 @@
      <script src="js/d3.min.js"></script>
     <script src="js/d3.tip.js"></script>
     <script src="js/d3-hierarchy.min.js"></script>
-
-
 
     <!-- Custom Javascript -->
     <script src="js/parallel.js"></script>

@@ -43,8 +43,8 @@ BubbleChart = function(_parentElement, _parentElement2,_parentElement3,_data, _d
 
 BubbleChart.prototype.initVis = function() {
     var vis = this;
-
-    vis.margin = {top: 20, right: 50, bottom:50, left: 50};
+    console.log(vis.data2);
+    vis.margin = {top: 20, right: 50, bottom:50, left: 10};
 
     var chart = document.getElementById(vis.parentElement);
     var width1 = chart.clientWidth;
@@ -57,8 +57,6 @@ BubbleChart.prototype.initVis = function() {
 
     vis.x = d3.scale.linear().range([0, vis.r]);
     vis.y = d3.scale.linear().range([0, vis.r]);
-
-
 
     vis.colorRegion = d3.scale.ordinal()
         .range(colorbrewer.Set1[5])
@@ -79,18 +77,7 @@ BubbleChart.prototype.initVis = function() {
         .attr("class","svg-bubble")
         .attr("transform", "translate(" + (vis.margin.left+vis.width - vis.r) / 2 + "," + (vis.margin.top+vis.height - vis.r) / 2 + ")");
 
-    // (Filter, aggregate, modify data)
-    vis.filteredData = vis.data.filter(function (el) {return ( isNaN(el.retail_price) == false)});
-    for (var i = 0; i < vis.filteredData.length; i++) {
-        vis.filteredData[i]["price"]=vis.filteredData[i]["retail_price"];
-        vis.filteredData[i]["year"]=vis.filteredData[i]["retail_year"];
-    }
 
-    vis.filteredData2 = vis.data2.filter(function (el) {return ( isNaN(el.retail_price) == false)});
-    for (var i = 0; i < vis.filteredData2.length; i++) {
-        vis.filteredData2[i]["price"]=vis.filteredData2[i]["retail_price"];
-        vis.filteredData2[i]["year"]=vis.filteredData2[i]["retail_year"];
-    }
 
 ////legend
     var chart2 = document.getElementById(vis.parentElement2);
@@ -126,51 +113,79 @@ BubbleChart.prototype.initVis = function() {
         .style("fill","white");
 ////
 
+    vis.tooltip = d3.tip()
+        .attr("class", "scatter-d3-tip")
+        .style("opacity", 1);
+
+    vis.tooltip
+        .html(function(d){
+            return "" + d.name + " <br>";
+        });
+
+    vis.svg.call(vis.tooltip);
+
+    // (Filter, aggregate, modify data)
+    vis.filteredData = vis.data.filter(function (el) {return ( isNaN(el.retail_price) == false)});
+    for (var i = 0; i < vis.filteredData.length; i++) {
+        vis.filteredData[i]["price"]=vis.filteredData[i]["retail_price"];
+        vis.filteredData[i]["year"]=vis.filteredData[i]["retail_year"];
+    }
+
+    vis.filteredData2 = vis.data2.filter(function (el) {return ( isNaN(el.retail_price) == false)});
+    for (var j = 0; j < vis.filteredData2.length; j++) {
+        vis.filteredData2[j]["price"]=vis.filteredData2[j]["retail_price"];
+        vis.filteredData2[j]["year"]=vis.filteredData2[j]["retail_year"];
+    }
+
+
     vis.filteredDataFinal=vis.filteredData;
+    vis.visualizedData=vis.filteredDataFinal;
+    vis.pricing="Retail";
+    vis.drug="Cocaine";
+    vis.unit="Gram";
+        console.log(vis.filteredData2);
     vis.wrangleData();
 
 };
 
-BubbleChart.prototype.filterDrug = function(objButton) {
+BubbleChart.prototype.selectDrug = function(objButton) {
     var vis=this;
 
     if (objButton.innerHTML=="Cocaine") {
-        vis.filteredDataFinal=vis.data.filter(function (el) {return ( isNaN(el.retail_price) == false)});
-        for (var i = 0; i < vis.filteredData.length; i++) {
-            vis.filteredDataFinal[i]["price"]=vis.filteredData[i]["retail_price"];
-            vis.filteredDataFinal[i]["year"]=vis.filteredData[i]["retail_year"];
-        }
+        vis.drug="Cocaine";
+        vis.filteredDataFinal=vis.filteredData;
 
     } else   if (objButton.innerHTML=="Cannabis") {
+        vis.drug="Cannabis";
         vis.filteredDataFinal=vis.filteredData2;
-        vis.filteredData=vis.data.filter(function (el) {return ( isNaN(el.wholesale_price) == false)});
-        for (var i = 0; i < vis.filteredData.length; i++) {
-            vis.filteredDataFinal[i]["price"]=vis.filteredData[i]["wholesale_price"];
-            vis.filteredDataFinal[i]["year"]=vis.filteredData[i]["wholesale_year"];
-        }
 
     }
 
-    vis.filter();
+    vis.visualizedData=vis.filteredDataFinal;
 
+    vis.wrangleData();
 };
-
 
 BubbleChart.prototype.filter = function(objButton) {
     var vis=this;
-
+    vis.pricing="Retail";
+    vis.unit="Gram";
    if (objButton.innerHTML=="Retail") {
-    vis.visualizedData=filteredDataFinal.filter(function (el) {return ( isNaN(el.retail_price) == false)});
+       vis.pricing="Retail";
+    vis.visualizedData=vis.filteredDataFinal.filter(function (el) {return ( isNaN(el.retail_price) == false)});
+
   for (var i = 0; i < vis.visualizedData.length; i++) {
     vis.visualizedData[i]["price"]=vis.visualizedData[i]["retail_price"];
     vis.visualizedData[i]["year"]=vis.visualizedData[i]["retail_year"];
  }
 
    } else   if (objButton.innerHTML=="Wholesale") {
-      vis.filteredData=filteredDataFinal.filter(function (el) {return ( isNaN(el.wholesale_price) == false)});
-       for (var i = 0; i < vis.visualizedData.length; i++) {
-           vis.visualizedData[i]["price"]=vis.visualizedData[i]["wholesale_price"];
-           vis.visualizedData[i]["year"]=vis.visualizedData[i]["wholesale_year"];
+      vis.visualizedData=vis.filteredDataFinal.filter(function (el) {return ( isNaN(el.wholesale_price) == false)});
+       vis.pricing="Wholesale";
+       vis.unit="Kilogram";
+       for (var j = 0; j < vis.visualizedData.length; j++) {
+           vis.visualizedData[j]["price"]=vis.visualizedData[j]["wholesale_price"];
+           vis.visualizedData[j]["year"]=vis.visualizedData[j]["wholesale_year"];
        }
 
   }
@@ -184,16 +199,16 @@ BubbleChart.prototype.filter = function(objButton) {
 
 BubbleChart.prototype.wrangleData = function() {
     var vis = this;
-
+    document.getElementById("bubble-title").innerHTML = vis.pricing + " price of " + vis.drug + " per " + vis.unit;
         //filterData
 
     var groups = {};
-    for (var i = 0; i < vis.filteredData.length; i++) {
-        var groupName = vis.filteredData[i].Region;
+    for (var i = 0; i < vis.visualizedData.length; i++) {
+        var groupName = vis.visualizedData[i].Region;
         if (!groups[groupName]) {
             groups[groupName] = [];
         }
-        groups[groupName].push(vis.filteredData[i]);
+        groups[groupName].push(vis.visualizedData[i]);
     }
 
     myArray = [];
@@ -216,6 +231,9 @@ BubbleChart.prototype.wrangleData = function() {
 BubbleChart.prototype.updateVis = function() {
     var vis = this;
 
+    //Tooltip
+
+
     vis.node=vis.root=vis.world;
 
     vis.nodes = vis.pack.nodes(vis.root);
@@ -228,7 +246,8 @@ BubbleChart.prototype.updateVis = function() {
             } else {
                 return "bubble-child";
             }
-        });
+        })
+
 
     vis.bubble
         .enter().append("circle");
@@ -243,7 +262,8 @@ BubbleChart.prototype.updateVis = function() {
         .attr("cx", function(d) { return vis.margin.left+d.x; })
         .attr("cy", function(d) { return vis.margin.top+d.y; })
         .attr("r", function(d) { return d.r; })
-        .style("opacity","1");
+        .style("opacity","1")
+
 
     vis.bubble
         .attr("fill", function(d){
@@ -274,7 +294,9 @@ BubbleChart.prototype.updateVis = function() {
             } else {
                 return zoom(d);
             }
-        });
+        })
+        .on("mouseover", vis.tooltip.show)
+        .on("mouseout", vis.tooltip.hide);
 
     // Exit
         vis.bubble.exit().remove();
@@ -333,8 +355,12 @@ BubbleChart.prototype.updateVis = function() {
                 .attr("y", 40)
                 .text("Year: " + vis.node.year);
 
+            vis.svg.select(".bubble-name").append("text")
+                .attr("y", 80)
+                .text("Type: " + vis.node.Drug);
         }
     }
+
 
 
 };

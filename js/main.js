@@ -1,14 +1,3 @@
-
-
-// Bar chart configurations: data keys and chart titles
-
-
-$("#mainquote").css({opacity: 1, visibility: "visible"});
-
-
-var labelsbubble;
-
-
 $(function() {
     $("#letter-container h2 a").lettering();
 });
@@ -23,7 +12,6 @@ var supplydemandmap;
 
 
 queue()
-    .defer(d3.csv,"data/antiguos/alldata2.csv")
     .defer(d3.csv,"data/drugs_final.csv")
     .defer(d3.csv,"data/prices/cocaine.csv")
     .defer(d3.csv,"data/prices/cannabis.csv")
@@ -34,18 +22,12 @@ queue()
 
 
 
-function createVis(error, alldata2, drugs_final ,pCocaine, pCannabis ,world, hectares_last, prevalence_last ){
+function createVis(error, drugs_final ,pCocaine, pCannabis ,world, hectares_last, prevalence_last ){
 
     if(error) { console.log(error); }
 
-    console.log(pCannabis);
     // (2) Make our data look nicer and more useful
 
-    alldata2.forEach(function(d) {
-        d.statcannabis =+d.statcannabis;
-        d.statcocaine =+d.statcocaine;
-        d.statdeath =+d.statdeath;
-    });
 
     drugs_final.forEach(function(d) {
         d["Number of deaths related with drugs"]= +d["Number of deaths related with drugs"];
@@ -118,9 +100,6 @@ function createVis(error, alldata2, drugs_final ,pCocaine, pCannabis ,world, hec
     });
 
 
-
-
-    allData2=alldata2;
     pricescocaine=pCocaine;
     pricescannabis=pCannabis;
     drugsfinal=drugs_final;
@@ -130,7 +109,7 @@ function createVis(error, alldata2, drugs_final ,pCocaine, pCannabis ,world, hec
     // (4) Create visualization instances
 
     bubblechart = new BubbleChart("bubble-chart", "bubble-legend", "other2", pricescocaine, pricescannabis);
-    scatterplot = new ScatterPlot("scatterPlot", "scatter-svg-legend",drugsfinal);
+    scatterplot = new ScatterPlot("scatterPlot", "scatter-svg-legend", drugsfinal);
     supplydemandmap = new SupplyDemandMap("SupplyDemand", displayworld, displayhectares, displayprevalence);
 
 };

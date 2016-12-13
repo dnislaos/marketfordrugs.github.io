@@ -6,11 +6,11 @@ window.addEventListener('message', function(e) {
 });
 
 var defaults = {
-    margin: {top: 24, right: 0, bottom: 100, left: 0},
+    margin: {top: 24, right: 0, bottom: 80, left: 50},
     rootname: "TOP",
     format: ",d",
     title: "",
-    width: 600,
+    width: 500,
     height: 500
 };
 
@@ -44,12 +44,10 @@ function main(o, data) {
         .round(false);
 
     var svg = d3.select("#treemap").append("svg")
-        .attr("width", width + margin.left + margin.right)
+        .attr("width", width + margin.left + margin.right+70)
         .attr("height", height + margin.bottom + margin.top)
-        .style("margin-left", -margin.left + "px")
-        .style("margin.right", -margin.right + "px")
         .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+        .attr("transform", "translate(" + 70 + "," + margin.top + ")")
         .style("shape-rendering", "crispEdges");
 
     var grandparent = svg.append("g")
@@ -161,7 +159,7 @@ function main(o, data) {
 
         var t = g.append("text")
             .attr("class", "ptext")
-            .attr("dy", ".75em")
+            .attr("dy", ".75em");
 
         t.append("tspan")
             .text(function(d) { return d.key; });
@@ -244,7 +242,7 @@ if (window.location.hash === "") {
     d3.json("data/countries.json", function(err, res) {
         if (!err) {
             var data = d3.nest().key(function(d) { return d.region; }).entries(res);
-            main({title: "Drugs Market Size, by country (millions US$, own estimates based on cocaine salt price and population, last year available)"}, {key: "World Total", values: data});
+            main({title: ""}, {key: "World Total", values: data});
         }
     });
 }

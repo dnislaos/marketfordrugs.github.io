@@ -4,8 +4,6 @@
     background-color: black;
     text-align: center;
     position: relative;
-    height: 100%;
-    width: 100%;
 }
 
 .goal-section-heading {
@@ -22,6 +20,6 @@
 
 #goal-section-p {
     padding-top: 8%;
-    padding-bottom: 3%;
+    padding-bottom: 0%;
     font-size: 15px;
 }

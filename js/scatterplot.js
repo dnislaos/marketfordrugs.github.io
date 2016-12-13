@@ -1,5 +1,37 @@
 
 
+
+
+$(".scatter-section-heading").append("Drugs and Development");
+var r = $('</br> <input type="button" class="bubble-btnStyle" id="scatter-button-intro" value="Start" onclick="startscattervis();"/>');
+$(".scatter-section-heading").append(r);
+
+$( "#developmentclick" ).click(function() {
+    $(".scatter-section-heading").fadeOut(100);
+    $(".scatter-section-heading").fadeIn(3000);
+});
+
+function startscattervis() {
+
+    $("#scatter-button-intro").animate({
+        top: "0%"
+    }, function(){
+        $("#scatter-button-intro").remove()
+    });
+
+    $(".scatter-section-heading").animate({
+        top: "0%"
+    }, function () {
+
+        if ($('.scatter-wrap').css('visibility') == 'hidden')
+        {
+            $('.scatter-wrap').css({opacity: 0.2, visibility: "visible"}).animate({opacity: 1.0},1000);
+
+        }
+    });
+};
+
+
 ScatterPlot = function(_parentElement, _parentElement2, _data){
     this.parentElement = _parentElement;
     this.parentElement2 = _parentElement2;
@@ -12,7 +44,7 @@ ScatterPlot.prototype.initVis = function() {
 
     vis.margin = {top: 0, right: 0, bottom: 80, left: 120};
 
-    vis.chart = document.getElementById(vis.parentElement);
+    vis.chart = document.getElementById("scatterPlot");
 
     vis.width = vis.chart.clientWidth-vis.margin.left-vis.margin.right;
     vis.height = vis.width/1.5-vis.margin.top-vis.margin.bottom;
@@ -22,8 +54,8 @@ ScatterPlot.prototype.initVis = function() {
 
     vis.body = d3.select("#" + vis.parentElement);
 
-    vis.selectData = [ { "text" : "Population density (people per sq. km of land area)" },
-        { "text" : "GDP per capita (constant 2005 US$)" },
+    vis.selectData = [ { "text" : "GDP per capita (constant 2005 US$)" },
+        { "text" : "Population density (people per sq. km of land area)" },
         { "text" :  "Tuberculosis case detection rate (%, all forms)" },
         { "text" : "Life expectancy at birth, total (years)" },
         { "text" :  "Population, total" },
@@ -100,7 +132,7 @@ ScatterPlot.prototype.initVis = function() {
 
     // Y scale
     vis.yScale = d3.scale.linear()
-        .domain([d3.min(vis.data, function(d) {return d["GDP per capita (constant 2005 US$)"];}), d3.max(vis.data, function(d) {return d["Number of deaths related with drugs"];})])
+        .domain([d3.min(vis.data, function(d) {return d["GDP per capita (constant 2005 US$)"];}), d3.max(vis.data, function(d) {return d["GDP per capita (constant 2005 US$)"];})])
         .range([vis.height-vis.margin.top, vis.margin.bottom]);
 
     // Radius Scale
@@ -143,7 +175,7 @@ ScatterPlot.prototype.initVis = function() {
         .call(vis.scatter_yAxis)
         .append('text')
         .attr("id", "scatteryAxisLabel")
-        .attr("transform", "translate("+(vis.margin.left-3*vis.padding)+","+(vis.height/2)+")rotate(-90)")
+        .attr("transform", "translate("+(vis.margin.left-11*vis.padding)+","+(vis.height/2)+")rotate(-90)")
         .attr("dy", ".71em")
         .style("text-anchor", "start")
         .text("GDP per capita (constant 2005 US$)");
@@ -156,15 +188,15 @@ ScatterPlot.prototype.initVis = function() {
             .domain([
                 d3.min([d3.min(vis.data,function (d) { return d[value] }),d3.min(vis.data,function (d) { return d[value] })]),
                 d3.max([d3.max(vis.data,function (d) { return d[value] }),d3.max(vis.data,function (d) { return d[value] })])
-            ])
+            ]);
         vis.scatter_yAxis.scale(vis.yScale); // change the yScale
         d3.select('#scatteryAxis') // redraw the yAxis
             .transition().duration(1000)
             .call(vis.scatter_yAxis);
         d3.select('#scatteryAxisLabel') // change the yAxisLabel
             .transition().duration(1000)
-            .text(value)
-        d3.selectAll('circle') // move the circles
+            .text(value);
+        d3.selectAll('.circle_scatterplot') // move the circles
             .transition().duration(1000)
             .delay(function (d,i) { return i*10})
             .attr('cy',function (d) { return vis.yScale(d[value]) })
@@ -176,15 +208,15 @@ ScatterPlot.prototype.initVis = function() {
             .domain([
                 d3.min([d3.min(vis.data,function (d) { return d[value] }),d3.min(vis.data,function (d) { return d[value] })]),
                 d3.max([d3.max(vis.data,function (d) { return d[value] }),d3.max(vis.data,function (d) { return d[value] })])
-            ])
+            ]);
         vis.scatter_xAxis.scale(vis.xScale) // change the xScale
         d3.select('#scatterxAxis') // redraw the xAxis
             .transition().duration(1000)
             .call(vis.scatter_xAxis)
         d3.select('#scatterxAxisLabel') // change the xAxisLabel
             .transition().duration(1000)
-            .text(value)
-        d3.selectAll('circle') // move the circles
+            .text(value);
+        d3.selectAll('.circle_scatterplot') // move the circles
             .transition().duration(1000)
             .delay(function (d,i) { return i*10})
             .attr('cx',function (d) { return vis.xScale(d[value]) })
@@ -196,8 +228,8 @@ ScatterPlot.prototype.initVis = function() {
             .domain([
                 d3.min([0,d3.min(vis.data,function (d) { return d[value] })]),
                 d3.max([0,d3.max(vis.data,function (d) { return d[value] })])
-            ])
-        d3.selectAll('circle') // move the circles
+            ]);
+        d3.selectAll('.circle_scatterplot') // move the circles
             .transition().duration(1000)
             .delay(function (d,i) { return i*10})
             .attr('r',function (d) { return vis.radiusScale(d[value]) })
@@ -239,11 +271,14 @@ ScatterPlot.prototype.initVis = function() {
     vis.height2 =+ vis.width2;
 
     vis.svg2= d3.select("#" + vis.parentElement2).append("svg")
+        .attr("id","legend2")
         .attr("class","svg-legend2")
         .attr("width", vis.width2)
         .attr("height", vis.height2);
 
     vis.legend = d3.select(".svg-legend2")
+        .attr("id","legend2_1")
+        .attr("class","svg-legend2")
         .append("g")
         .selectAll("g")
         .data(vis.regionScale.domain())
@@ -255,6 +290,8 @@ ScatterPlot.prototype.initVis = function() {
         });
 
     vis.legend.append("circle")
+        .attr("id","legend2_2")
+        .attr("class","svg-legend2")
         .attr("cx", 15)
         .attr("cy", vis.height2/4+15)
         .attr("r", 10)
@@ -263,6 +300,8 @@ ScatterPlot.prototype.initVis = function() {
         .style("stroke","white");
 
     vis.legend.append("text")
+        .attr("id","legend2_2")
+        .attr("class","svg-legend2")
         .attr("x", 28)
         .attr("y", vis.height2/4+20)
         .text(function(d) { return d; })

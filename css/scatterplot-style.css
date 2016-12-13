@@ -1,16 +1,6 @@
 .content-2 {
     background-color: #222;
     width:100%;
-
-}
-
-
-.scatter-section-heading {
-    margin-top: 2%;
-    margin-bottom: 2%;
-    font-size: 50px;
-    text-align: center;
-    color: red;
 }
 
 .scatter-axis text {
@@ -78,4 +68,27 @@
     margin: -1px 0 0 0;
     top: 100%;
     left: 0;
+}
+
+.scatter-wrap {
+    visibility:hidden;
+}
+
+
+#scatter-button-intro {
+    position: relative;
+    font-size: 50%;
+}
+#scatter-button-intro:hover {
+    background-color: white;
+}
+
+
+.scatter-section-heading {
+    position: relative;
+    padding-top:5%;
+    font-size: 50px;
+    top: 40%;
+    color: red;
+    text-align: center;
 }
